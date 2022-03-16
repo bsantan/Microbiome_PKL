@@ -3,6 +3,7 @@ Incorporating GutMGene into PheKnowLator
 
 #To add only gutMgene in PKL
 
+Functions in gutMGene_PKLAddition.ipynb
 #Get_gutMgene_microbes to generate gutMgene_microbes_updated.csv, metab_microbes_updated.csv, and gene_microbes_updated.csv for each of the KGs you want to integrate (i.e. both metabs and genes or only one or the other)- updated all names of microbes to align with original or new name, as there were inconsistencies among the files themselves
 
 #Create_URI_Label_Map_GutMGene to create gutMGene_URI_LABEL_MAP.csv
