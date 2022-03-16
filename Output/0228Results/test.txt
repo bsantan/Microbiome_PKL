@@ -1,1 +1,6 @@
-test
+Not included:
+/Users//Documents/Rotation2/Rocky/PKL_Additions/GutMGene/
+
+PheKnowLator_v2.1.0_full_instance_relationsOnly_OWLNETS_Triples_Integers_node2vecInput_withGutMGene_withMicrobes.txt (edited 2/23/2022)
+
+/Node2Vec_DimensionCheck/PheKnowLator_v2.1.0_full_instance_relationsOnly_OWLNETS_Triples_Integers_node2vecInput_cleaned_withGutMGene_withMicrobes.txt (edited 2/23/2022)
