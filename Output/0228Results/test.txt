@@ -4,3 +4,6 @@ Not included:
 PheKnowLator_v2.1.0_full_instance_relationsOnly_OWLNETS_Triples_Integers_node2vecInput_withGutMGene_withMicrobes.txt (edited 2/23/2022)
 
 /Node2Vec_DimensionCheck/PheKnowLator_v2.1.0_full_instance_relationsOnly_OWLNETS_Triples_Integers_node2vecInput_cleaned_withGutMGene_withMicrobes.txt (edited 2/23/2022)
+
+
+/Node2Vec_DimensionCheck/PheKnowLator_v2_node2vec_Embeddings42_0.emb (edited 2/27/2022)
