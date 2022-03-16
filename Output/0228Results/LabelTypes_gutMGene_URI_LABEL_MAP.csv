@@ -1,0 +1,1264 @@
+Identifier,CURIE,Label,Type
+<http://purl.obolibrary.org/obo/NCBITaxon_1343173>,NCBITaxon_1343173,enterococcus sp. 45,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_729>,NCBITaxon_729,haemophilus parainfluenzae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_853>,NCBITaxon_853,faecalibacterium prausnitzii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_186803>,NCBITaxon_186803,lachnospiraceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_371143>,NCBITaxon_371143,clostridium sp. tm-40,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_647703>,NCBITaxon_647703,slackia sp. natts,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_679895>,NCBITaxon_679895,escherichia coli bw25113,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_570>,NCBITaxon_570,klebsiella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_561>,NCBITaxon_561,escherichia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_502558>,NCBITaxon_502558,eggerthella sp. yy7918,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1239>,NCBITaxon_1239,firmicutes,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_203490>,NCBITaxon_203490,fusobacteriia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_180589>,NCBITaxon_180589,roseburia sp. a2-183,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411483>,NCBITaxon_411483,faecalibacterium prausnitzii a2-165,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411489>,NCBITaxon_411489,clostridium sp. l2-50,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_239935>,NCBITaxon_239935,akkermansia muciniphila,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1578>,NCBITaxon_1578,lactobacillus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1678>,NCBITaxon_1678,bifidobacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_572511>,NCBITaxon_572511,blautia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_102106>,NCBITaxon_102106,collinsella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_718252>,NCBITaxon_718252,faecalibacterium prausnitzii l2-6,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_171552>,NCBITaxon_171552,prevotellaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_31977>,NCBITaxon_31977,veillonellaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_31969>,NCBITaxon_31969,mollicutes,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33042>,NCBITaxon_33042,coprococcus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_541000>,NCBITaxon_541000,ruminococcaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_990719>,NCBITaxon_990719,christensenellaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_544448>,NCBITaxon_544448,tenericutes,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1730>,NCBITaxon_1730,eubacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1263076>,NCBITaxon_1263076,eubacterium dolichum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_511693>,NCBITaxon_511693,escherichia coli bl21,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_39490>,NCBITaxon_39490,eubacterium ramulus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1736>,NCBITaxon_1736,eubacterium limosum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1485>,NCBITaxon_1485,clostridium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_29465>,NCBITaxon_29465,veillonella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1263>,NCBITaxon_1263,ruminococcus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_189330>,NCBITaxon_189330,dorea,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_191303>,NCBITaxon_191303,turicibacter,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_216816>,NCBITaxon_216816,bifidobacterium longum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_97478>,NCBITaxon_97478,lactobacillus mucosae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_57037>,NCBITaxon_57037,lactobacillus zeae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_74426>,NCBITaxon_74426,collinsella aerofaciens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_562>,NCBITaxon_562,escherichia coli,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_216851>,NCBITaxon_216851,faecalibacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1623>,NCBITaxon_1623,lactobacillus ruminis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_39948>,NCBITaxon_39948,dialister,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_135858>,NCBITaxon_135858,catenibacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_40518>,NCBITaxon_40518,ruminococcus bromii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_823>,NCBITaxon_823,parabacteroides distasonis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_47678>,NCBITaxon_47678,bacteroides caccae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_239934>,NCBITaxon_239934,akkermansia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_116085>,NCBITaxon_116085,coprococcus catus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_52225>,NCBITaxon_52225,mitsuokella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_46255>,NCBITaxon_46255,weissella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_52226>,NCBITaxon_52226,mitsuokella multacida,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_83770>,NCBITaxon_83770,succinivibrio,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_69965>,NCBITaxon_69965,macrococcus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_35832>,NCBITaxon_35832,bilophila,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1350>,NCBITaxon_1350,enterococcus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_661>,NCBITaxon_661,photobacterium angustum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_577309>,NCBITaxon_577309,paraprevotella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_2747>,NCBITaxon_2747,carnobacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1265>,NCBITaxon_1265,ruminococcus flavefaciens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_501571>,NCBITaxon_501571,butyricicoccus pullicaecorum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_817>,NCBITaxon_817,bacteroides fragilis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_57495>,NCBITaxon_57495,dermacoccus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_57493>,NCBITaxon_57493,kocuria,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_841>,NCBITaxon_841,roseburia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_84112>,NCBITaxon_84112,eggerthella lenta,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_119852>,NCBITaxon_119852,oscillospira,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_469>,NCBITaxon_469,acinetobacter,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33882>,NCBITaxon_33882,microbacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_156973>,NCBITaxon_156973,dysgonomonas,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_118747>,NCBITaxon_118747,bulleidia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_72000>,NCBITaxon_72000,kocuria rhizophila,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_296>,NCBITaxon_296,pseudomonas fragi,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1006003>,NCBITaxon_1006003,citrobacter freundii atcc 8090 = mtcc 1658 = nbrc 12681,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1519>,NCBITaxon_1519,clostridium tyrobutyricum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1351>,NCBITaxon_1351,enterococcus faecalis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_103892>,NCBITaxon_103892,veillonella ratti,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33010>,NCBITaxon_33010,propionibacterium avidum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_39488>,NCBITaxon_39488,eubacterium hallii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_901>,NCBITaxon_901,desulfovibrio piger,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1705604>,NCBITaxon_1705604,streptococcus sp. mrg-ica-b,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1710535>,NCBITaxon_1710535,enterococcus sp. mrg-ica-e,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1477104>,NCBITaxon_1477104,bacterium mrg-pmf-1,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1449386>,NCBITaxon_1449386,bacterium mrg-ifc-1,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1449387>,NCBITaxon_1449387,bacterium mrg-ifc-2,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_37734>,NCBITaxon_37734,enterococcus casseliflavus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1266601>,NCBITaxon_1266601,bacillus sp. 46,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1343183>,NCBITaxon_1343183,escherichia sp. 49a,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1343186>,NCBITaxon_1343186,escherichia sp.64,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_83771>,NCBITaxon_83771,succinivibrio dextrinosolvens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_629395>,NCBITaxon_629395,bacteria latreille et al. 1825,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_473819>,NCBITaxon_473819,bifidobacterium dentium atcc 27678,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_226186>,NCBITaxon_226186,bacteroides thetaiotaomicron vpi-5482,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1343180>,NCBITaxon_1343180,escherichia sp. 4,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1496>,NCBITaxon_1496,clostridioides difficile,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_498718>,NCBITaxon_498718,slackia equolifaciens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_446660>,NCBITaxon_446660,adlercreutzia equolifaciens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_44689>,NCBITaxon_44689,dictyostelium discoideum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_28901>,NCBITaxon_28901,salmonella enterica,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_572010>,NCBITaxon_572010,slackia isoflavoniconvertens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_28141>,NCBITaxon_28141,cronobacter sakazakii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_168384>,NCBITaxon_168384,marvinbryantia formatexigens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33038>,NCBITaxon_33038,ruminococcus gnavus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1249>,NCBITaxon_1249,weissella paramesenteroides,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_742725>,NCBITaxon_742725,alistipes indistinctus yit 12060,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_742817>,NCBITaxon_742817,odoribacter laneus yit 12061,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_762968>,NCBITaxon_762968,paraprevotella clara yit 11840,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_762982>,NCBITaxon_762982,paraprevotella xylaniphila yit 11841,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_590>,NCBITaxon_590,salmonella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_49082>,NCBITaxon_49082,candidatus arthromitus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1597>,NCBITaxon_1597,lacticaseibacillus paracasei,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_620>,NCBITaxon_620,shigella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1171373>,NCBITaxon_1171373,acidipropionibacterium acidipropionici atcc 4875,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_816>,NCBITaxon_816,bacteroides,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_239760>,NCBITaxon_239760,human intestinal bacterium snu-julong732,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_28025>,NCBITaxon_28025,bifidobacterium animalis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1596>,NCBITaxon_1596,lactobacillus gasseri,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1613>,NCBITaxon_1613,lactobacillus fermentum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1583>,NCBITaxon_1583,weissella confusa,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_4932>,NCBITaxon_4932,saccharomyces cerevisiae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_39491>,NCBITaxon_39491,eubacterium rectale,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1501>,NCBITaxon_1501,clostridium pasteurianum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_298389>,NCBITaxon_298389,bacteroides sp. mang,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411468>,NCBITaxon_411468,clostridium scindens atcc 35704,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1590>,NCBITaxon_1590,lactiplantibacillus plantarum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1689>,NCBITaxon_1689,bifidobacterium dentium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_976>,NCBITaxon_976,bacteroidetes,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1382>,NCBITaxon_1382,atopobium parvulum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_165179>,NCBITaxon_165179,prevotella copri,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_673271>,NCBITaxon_673271,catenibacillus scindens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_426610>,NCBITaxon_426610,eggerthella sp. sdg-2,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_292800>,NCBITaxon_292800,flavonifractor plautii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_40520>,NCBITaxon_40520,blautia obeum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1598>,NCBITaxon_1598,lactobacillus reuteri,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1681>,NCBITaxon_1681,bifidobacterium bifidum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33024>,NCBITaxon_33024,phascolarctobacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_65402>,NCBITaxon_65402,acidaminobacter,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_471871>,NCBITaxon_471871,clostridium sporogenes atcc 15579,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1073365>,NCBITaxon_1073365,peptostreptococcus anaerobius cc14n,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1073356>,NCBITaxon_1073356,clostridium cadaveris cc44 001g,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1073355>,NCBITaxon_1073355,clostridium cadaveris cc40 001c,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1309>,NCBITaxon_1309,streptococcus mutans,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_394229>,NCBITaxon_394229,eubacterium sp. a-44,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1506>,NCBITaxon_1506,clostridium sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_2053618>,NCBITaxon_2053618,subdoligranulum sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_742742>,NCBITaxon_742742,collinsella tanakaei yit 12063(t),microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_626935>,NCBITaxon_626935,collinsella tanakaei yit yit 12064,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411475>,NCBITaxon_411475,flavonifractor plautii atcc 29863,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_518636>,NCBITaxon_518636,clostridium asparagiforme dsm 15981,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1343175>,NCBITaxon_1343175,escherichia sp. 12,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1343178>,NCBITaxon_1343178,escherichia sp. 33,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_742743>,NCBITaxon_742743,dialister succinatiphilus yit 11850,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_209879>,NCBITaxon_209879,allisonella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_906>,NCBITaxon_906,megasphaera,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_28116>,NCBITaxon_28116,bacteroides ovatus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_46506>,NCBITaxon_46506,bacteroides stercoris,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_818>,NCBITaxon_818,bacteroides thetaiotaomicron,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_820>,NCBITaxon_820,bacteroides uniformis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_821>,NCBITaxon_821,phocaeicola vulgatus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_459786>,NCBITaxon_459786,oscillibacter,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33035>,NCBITaxon_33035,blautia producta,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_142586>,NCBITaxon_142586,eubacterium sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_29347>,NCBITaxon_29347,clostridium scindens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1338>,NCBITaxon_1338,streptococcus intermedius,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1926307>,NCBITaxon_1926307,veillonella sp. ep,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_838>,NCBITaxon_838,prevotella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_657318>,NCBITaxon_657318,eubacterium rectale dsm 17629,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_483216>,NCBITaxon_483216,bacteroides eggerthii dsm 20697,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_105843>,NCBITaxon_105843,eubacterium hallii dsm 17630,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_261299>,NCBITaxon_261299,intestinibacter bartlettii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_831>,NCBITaxon_831,butyrivibrio fibrisolvens,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411481>,NCBITaxon_411481,bifidobacterium adolescentis l2-32,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_657313>,NCBITaxon_657313,ruminococcus torques l2-14,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_717960>,NCBITaxon_717960,faecalitalea cylindroides t2-87,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411490>,NCBITaxon_411490,anaerostipes caccae l1-92,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_166486>,NCBITaxon_166486,roseburia intestinalis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_391904>,NCBITaxon_391904,bifidobacterium longum subsp. infantis atcc 15697 = jcm 1222 = dsm 20088,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_622312>,NCBITaxon_622312,roseburia inulinivorans dsm 16841,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_375288>,NCBITaxon_375288,parabacteroides,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1505657>,NCBITaxon_1505657,intestinibacter,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1649459>,NCBITaxon_1649459,hungatella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33039>,NCBITaxon_33039,ruminococcus torques,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_41978>,NCBITaxon_41978,ruminococcus sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1491>,NCBITaxon_1491,clostridium botulinum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_991789>,NCBITaxon_991789,anaerotignum propionicum dsm 1682,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33030>,NCBITaxon_33030,peptoniphilus indolicus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411474>,NCBITaxon_411474,coprococcus eutactus atcc 27759,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_68766>,NCBITaxon_68766,fusobacterium sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_157907>,NCBITaxon_157907,desulfosporosinus sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1121323>,NCBITaxon_1121323,anaerotignum lactatifermentans dsm 14214,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_470146>,NCBITaxon_470146,coprococcus comes atcc 27758,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_2023260>,NCBITaxon_2023260,megasphaera sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1064535>,NCBITaxon_1064535,megasphaera elsdenii dsm 20460,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_29466>,NCBITaxon_29466,veillonella parvula l59,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_33025>,NCBITaxon_33025,phascolarctobacterium faecium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_39778>,NCBITaxon_39778,veillonella dispar,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_626939>,NCBITaxon_626939,phascolarctobacterium succinatutens yit 12067,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_543>,NCBITaxon_543,enterobacteriaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_27835>,NCBITaxon_27835,nippostrongylus brasiliensis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_5723>,NCBITaxon_5723,tritrichomonas,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_2778071>,NCBITaxon_2778071,bacteroides sp.,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_561177>,NCBITaxon_561177,anaerococcus hydrogenalis dsm 7454,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_585054>,NCBITaxon_585054,escherichia fergusonii atcc 35469,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_471881>,NCBITaxon_471881,proteus penneri atcc 35198,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_521000>,NCBITaxon_521000,providencia rettgeri dsm 1131,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_500638>,NCBITaxon_500638,edwardsiella tarda atcc 23685,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_158850>,NCBITaxon_158850,providencia rustiganii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_53345>,NCBITaxon_53345,enterococcus durans,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_2005473>,NCBITaxon_2005473,muribaculaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_171551>,NCBITaxon_171551,porphyromonadaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_84107>,NCBITaxon_84107,coriobacteriaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_201174>,NCBITaxon_201174,actinobacteria,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_200930>,NCBITaxon_200930,deferribacteres,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1682>,NCBITaxon_1682,bifidobacterium longum subsp. infantis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1492>,NCBITaxon_1492,clostridium butyricum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_815>,NCBITaxon_815,bacteroidaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_28118>,NCBITaxon_28118,odoribacter splanchnicus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_204516>,NCBITaxon_204516,phocaeicola massiliensis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_53443>,NCBITaxon_53443,blautia hydrogenotrophica,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_856>,NCBITaxon_856,fusobacterium varium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_186801>,NCBITaxon_186801,clostridia,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1509>,NCBITaxon_1509,clostridium sporogenes,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_287>,NCBITaxon_287,pseudomonas aeruginosa,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1078087>,NCBITaxon_1078087,parabacteroides sp. hgs0025,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_349741>,NCBITaxon_349741,akkermansia muciniphila atcc baa-835,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1169286>,NCBITaxon_1169286,enterococcus faecalis atcc 19433,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1423>,NCBITaxon_1423,bacillus subtilis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1718>,NCBITaxon_1718,corynebacterium glutamicum,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_83828>,NCBITaxon_83828,brevibacterium avium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1772>,NCBITaxon_1772,mycolicibacterium smegmatis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1653>,NCBITaxon_1653,corynebacteriaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1358>,NCBITaxon_1358,lactococcus lactis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1622>,NCBITaxon_1622,ligilactobacillus murinus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_295405>,NCBITaxon_295405,bacteroides fragilis ych46,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_186802>,NCBITaxon_186802,eubacteriales,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_194924>,NCBITaxon_194924,desulfovibrionaceae,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_538>,NCBITaxon_538,eikenella,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1301>,NCBITaxon_1301,streptococcus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_316435>,NCBITaxon_316435,escherichia coli nissle 1917,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_574521>,NCBITaxon_574521,escherichia coli o127:h6 str. e2348/69,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_47715>,NCBITaxon_47715,lactobacillus rhamnosus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_568703>,NCBITaxon_568703,lactobacillus rhamnosus gg,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_474186>,NCBITaxon_474186,enterococcus faecalis og1rf,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1116231>,NCBITaxon_1116231,streptococcus macedonicus aca-dc 198,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_83333>,NCBITaxon_83333,escherichia coli k-12,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1680>,NCBITaxon_1680,bifidobacterium adolescentis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1304>,NCBITaxon_1304,streptococcus salivarius,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1200793>,NCBITaxon_1200793,streptococcus salivarius k12,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_645463>,NCBITaxon_645463,clostridioides difficile r20291,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_272563>,NCBITaxon_272563,clostridioides difficile 630,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_552531>,NCBITaxon_552531,bifidobacterium animalis subsp. lactis bb-12,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_935582>,NCBITaxon_935582,ruminococcus gnavus e1,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_210>,NCBITaxon_210,helicobacter pylori,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1763>,NCBITaxon_1763,mycobacterium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_411485>,NCBITaxon_411485,faecalibacterium prausnitzii m21/2,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_220668>,NCBITaxon_220668,lactobacillus plantarum wcfs1,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_329854>,NCBITaxon_329854,bacteroides intestinalis,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_67825>,NCBITaxon_67825,citrobacter rodentium,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_416870>,NCBITaxon_416870,lactococcus lactis subsp. cremoris mg1363,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_328813>,NCBITaxon_328813,alistipes onderdonkii,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1579>,NCBITaxon_1579,lactobacillus acidophilus,microbe
+<http://purl.obolibrary.org/obo/NCBITaxon_1121342>,NCBITaxon_1121342,clostridium tyrobutyricum dsm 2637 = atcc 25755 = jcm 11008,microbe
+<http://www.ncbi.nlm.nih.gov/gene/6372>,6372,cxcl6,other
+<http://www.ncbi.nlm.nih.gov/gene/6364>,6364,ccl20,other
+<http://www.ncbi.nlm.nih.gov/gene/11199>,11199,anxa10,other
+<http://www.ncbi.nlm.nih.gov/gene/50506>,50506,duox2,other
+<http://www.ncbi.nlm.nih.gov/gene/1956>,1956,egfr,other
+<http://www.ncbi.nlm.nih.gov/gene/3586>,3586,il10,other
+<http://www.ncbi.nlm.nih.gov/gene/3593>,3593,il12b,other
+<http://www.ncbi.nlm.nih.gov/gene/3592>,3592,il12a,other
+<http://www.ncbi.nlm.nih.gov/gene/1235>,1235,ccr6,other
+<http://www.ncbi.nlm.nih.gov/gene/10663>,10663,cxcr6,other
+<http://www.ncbi.nlm.nih.gov/gene/2833>,2833,cxcr3,other
+<http://www.ncbi.nlm.nih.gov/gene/9414>,9414,tjp2,other
+<http://www.ncbi.nlm.nih.gov/gene/5590>,5590,prkcz,other
+<http://www.ncbi.nlm.nih.gov/gene/2353>,2353,fos,other
+<http://www.ncbi.nlm.nih.gov/gene/5595>,5595,mapk3,other
+<http://www.ncbi.nlm.nih.gov/gene/5594>,5594,mapk1,other
+<http://www.ncbi.nlm.nih.gov/gene/3725>,3725,jun,other
+<http://www.ncbi.nlm.nih.gov/gene/3576>,3576,cxcl8,other
+<http://www.ncbi.nlm.nih.gov/gene/3553>,3553,il1b,other
+<http://www.ncbi.nlm.nih.gov/gene/7100>,7100,tlr5,other
+<http://www.ncbi.nlm.nih.gov/gene/7097>,7097,tlr2,other
+<http://www.ncbi.nlm.nih.gov/gene/7099>,7099,tlr4,other
+<http://www.ncbi.nlm.nih.gov/gene/7082>,7082,tjp1,other
+<http://www.ncbi.nlm.nih.gov/gene/9076>,9076,cldn1,other
+<http://www.ncbi.nlm.nih.gov/gene/100506658>,100506658,ocln,other
+<http://www.ncbi.nlm.nih.gov/gene/57530>,57530,cgn,other
+<http://www.ncbi.nlm.nih.gov/gene/1673>,1673,defb4a,other
+<http://www.ncbi.nlm.nih.gov/gene/51129>,51129,angptl4,other
+<http://www.ncbi.nlm.nih.gov/gene/1364>,1364,cldn4,other
+<http://www.ncbi.nlm.nih.gov/gene/50848>,50848,f11r,other
+<http://www.ncbi.nlm.nih.gov/gene/7040>,7040,tgfb1,other
+<http://www.ncbi.nlm.nih.gov/gene/50943>,50943,foxp3,other
+<http://www.ncbi.nlm.nih.gov/gene/15550>,15550,htr1a,other
+<http://www.ncbi.nlm.nih.gov/gene/4254>,4254,kitlg,other
+<http://www.ncbi.nlm.nih.gov/gene/1432>,1432,mapk14,other
+<http://www.ncbi.nlm.nih.gov/gene/9641>,9641,ikbke,other
+<http://www.ncbi.nlm.nih.gov/gene/406938>,406938,mir146a,other
+<http://www.ncbi.nlm.nih.gov/gene/406947>,406947,mir155,other
+<http://www.ncbi.nlm.nih.gov/gene/2932>,2932,gsk3b,other
+<http://www.ncbi.nlm.nih.gov/gene/6934>,6934,tcf7l2,other
+<http://www.ncbi.nlm.nih.gov/gene/595>,595,ccnd1,other
+<http://www.ncbi.nlm.nih.gov/gene/4609>,4609,myc,other
+<http://www.ncbi.nlm.nih.gov/gene/8841>,8841,hdac3,other
+<http://www.ncbi.nlm.nih.gov/gene/2475>,2475,mtor,other
+<http://www.ncbi.nlm.nih.gov/gene/3627>,3627,cxcl10,other
+<http://www.ncbi.nlm.nih.gov/gene/10015>,10015,pdcd6ip,other
+<http://www.ncbi.nlm.nih.gov/gene/2867>,2867,ffar2,other
+<http://www.ncbi.nlm.nih.gov/gene/4790>,4790,nfkb1,other
+<http://www.ncbi.nlm.nih.gov/gene/3552>,3552,il1a,other
+<http://www.ncbi.nlm.nih.gov/gene/3558>,3558,il2,other
+<http://www.ncbi.nlm.nih.gov/gene/3567>,3567,il5,other
+<http://www.ncbi.nlm.nih.gov/gene/50616>,50616,il22,other
+<http://www.ncbi.nlm.nih.gov/gene/3458>,3458,ifng,other
+<http://www.ncbi.nlm.nih.gov/gene/3605>,3605,il17a,other
+<http://www.ncbi.nlm.nih.gov/gene/6095>,6095,rora,other
+<http://www.ncbi.nlm.nih.gov/gene/2919>,2919,cxcl1,other
+<http://www.ncbi.nlm.nih.gov/gene/6374>,6374,cxcl5,other
+<http://www.ncbi.nlm.nih.gov/gene/5468>,5468,pparg,other
+<http://www.ncbi.nlm.nih.gov/gene/123>,123,plin2,other
+<http://www.ncbi.nlm.nih.gov/gene/9971>,9971,nr1h4,other
+<http://www.ncbi.nlm.nih.gov/gene/2740>,2740,glp1r,other
+<http://www.ncbi.nlm.nih.gov/gene/10052>,10052,gjc1,other
+<http://www.ncbi.nlm.nih.gov/gene/3952>,3952,lep,other
+<http://www.ncbi.nlm.nih.gov/gene/596>,596,bcl2,other
+<http://www.ncbi.nlm.nih.gov/gene/581>,581,bax,other
+<http://www.ncbi.nlm.nih.gov/gene/836>,836,casp3,other
+<http://www.ncbi.nlm.nih.gov/gene/7124>,7124,tnf,other
+<http://www.ncbi.nlm.nih.gov/gene/1581>,1581,cyp7a1,other
+<http://www.ncbi.nlm.nih.gov/gene/151306>,151306,gpbar1,other
+<http://www.ncbi.nlm.nih.gov/gene/10333>,10333,tlr6,other
+<http://www.ncbi.nlm.nih.gov/gene/3569>,3569,il6,other
+<http://www.ncbi.nlm.nih.gov/gene/4780>,4780,nfe2l2,other
+<http://www.ncbi.nlm.nih.gov/gene/3162>,3162,hmox1,other
+<http://www.ncbi.nlm.nih.gov/gene/728>,728,c5ar1,other
+<http://www.ncbi.nlm.nih.gov/gene/3579>,3579,cxcr2,other
+<http://www.ncbi.nlm.nih.gov/gene/6348>,6348,ccl3,other
+<http://www.ncbi.nlm.nih.gov/gene/5743>,5743,ptgs2,other
+<http://www.ncbi.nlm.nih.gov/gene/3606>,3606,il18,other
+<http://www.ncbi.nlm.nih.gov/gene/3565>,3565,il4,other
+<http://www.ncbi.nlm.nih.gov/gene/1047>,1047,clgn,other
+<http://www.ncbi.nlm.nih.gov/gene/27134>,27134,tjp3,other
+<http://www.ncbi.nlm.nih.gov/gene/23562>,23562,cldn14,other
+<http://www.ncbi.nlm.nih.gov/gene/2169>,2169,fabp2,other
+<http://www.ncbi.nlm.nih.gov/gene/948221>,948221,tnaa,other
+<http://www.ncbi.nlm.nih.gov/gene/338442>,338442,hcar2,other
+<http://www.ncbi.nlm.nih.gov/gene/1026>,1026,cdkn1a,other
+<http://www.ncbi.nlm.nih.gov/gene/7098>,7098,tlr3,other
+<http://www.ncbi.nlm.nih.gov/gene/54106>,54106,tlr9,other
+<http://www.ncbi.nlm.nih.gov/gene/54472>,54472,tollip,other
+<http://www.ncbi.nlm.nih.gov/gene/59307>,59307,sigirr,other
+<http://www.ncbi.nlm.nih.gov/gene/9655>,9655,socs5,other
+<http://www.ncbi.nlm.nih.gov/gene/5290>,5290,pik3ca,other
+<http://www.ncbi.nlm.nih.gov/gene/5291>,5291,pik3cb,other
+<http://www.ncbi.nlm.nih.gov/gene/5293>,5293,pik3cd,other
+<http://www.ncbi.nlm.nih.gov/gene/207>,207,akt1,other
+<http://www.ncbi.nlm.nih.gov/gene/11009>,11009,il24,other
+<http://www.ncbi.nlm.nih.gov/gene/282617>,282617,ifnl3,other
+<http://www.ncbi.nlm.nih.gov/gene/6370>,6370,ccl25,other
+<http://www.ncbi.nlm.nih.gov/gene/6351>,6351,ccl4,other
+<http://www.ncbi.nlm.nih.gov/gene/6360>,6360,ccl16,other
+<http://www.ncbi.nlm.nih.gov/gene/6375>,6375,xcl1,other
+<http://www.ncbi.nlm.nih.gov/gene/6376>,6376,cx3cl1,other
+<http://www.ncbi.nlm.nih.gov/gene/1843>,1843,dusp1,other
+<http://www.ncbi.nlm.nih.gov/gene/1845>,1845,dusp3,other
+<http://www.ncbi.nlm.nih.gov/gene/11221>,11221,dusp10,other
+<http://www.ncbi.nlm.nih.gov/gene/150290>,150290,dusp18,other
+<http://www.ncbi.nlm.nih.gov/gene/56940>,56940,dusp22,other
+<http://www.ncbi.nlm.nih.gov/gene/3667>,3667,irs1,other
+<http://www.ncbi.nlm.nih.gov/gene/6009>,6009,rheb,other
+<http://www.ncbi.nlm.nih.gov/gene/160728>,160728,slc5a8,other
+<http://www.ncbi.nlm.nih.gov/gene/4582>,4582,muc1,other
+<http://www.ncbi.nlm.nih.gov/gene/4583>,4583,muc2,other
+<http://www.ncbi.nlm.nih.gov/gene/4248>,4248,mgat3,other
+<http://www.ncbi.nlm.nih.gov/gene/2683>,2683,b4galt1,other
+<http://www.ncbi.nlm.nih.gov/gene/6480>,6480,st6gal1,other
+<http://www.ncbi.nlm.nih.gov/gene/283871>,283871,pgp,other
+<http://www.ncbi.nlm.nih.gov/gene/10560>,10560,slc19a2,other
+<http://www.ncbi.nlm.nih.gov/gene/80704>,80704,slc19a3,other
+<http://www.ncbi.nlm.nih.gov/gene/6550>,6550,slc9a3,other
+<http://www.ncbi.nlm.nih.gov/gene/5970>,5970,rela,other
+<http://www.ncbi.nlm.nih.gov/gene/8915>,8915,bcl10,other
+<http://www.ncbi.nlm.nih.gov/gene/1811>,1811,slc26a3,other
+<http://www.ncbi.nlm.nih.gov/gene/11282>,11282,mgat4b,other
+<http://www.ncbi.nlm.nih.gov/gene/11320>,11320,mgat4a,other
+<http://www.ncbi.nlm.nih.gov/gene/116379>,116379,il22ra2,other
+<http://www.ncbi.nlm.nih.gov/gene/12738>,12738,cldn2,other
+<http://www.ncbi.nlm.nih.gov/gene/20848>,20848,stat3,other
+<http://www.ncbi.nlm.nih.gov/gene/79221>,79221,hdac9,other
+<http://www.ncbi.nlm.nih.gov/gene/67800>,67800,dgat2,other
+<http://www.ncbi.nlm.nih.gov/gene/21872>,21872,tjp1,other
+<http://www.ncbi.nlm.nih.gov/gene/16153>,16153,il10,other
+<http://www.ncbi.nlm.nih.gov/gene/16176>,16176,il1b,other
+<http://www.ncbi.nlm.nih.gov/gene/16193>,16193,il6,other
+<http://www.ncbi.nlm.nih.gov/gene/21926>,21926,tnf,other
+<http://www.ncbi.nlm.nih.gov/gene/66102>,66102,cxcl16,other
+<http://www.ncbi.nlm.nih.gov/gene/433759>,433759,hdac1,other
+<http://www.ncbi.nlm.nih.gov/gene/16171>,16171,il17a,other
+<http://www.ncbi.nlm.nih.gov/gene/20371>,20371,foxp3,other
+<http://www.ncbi.nlm.nih.gov/gene/16600>,16600,klf4,other
+<http://www.ncbi.nlm.nih.gov/gene/17831>,17831,muc2,other
+<http://www.ncbi.nlm.nih.gov/gene/140474>,140474,muc4,other
+<http://www.ncbi.nlm.nih.gov/gene/94192>,94192,c1galt1,other
+<http://www.ncbi.nlm.nih.gov/gene/56375>,56375,b4galt4,other
+<http://www.ncbi.nlm.nih.gov/gene/20443>,20443,st3gal4,other
+<http://www.ncbi.nlm.nih.gov/gene/387140>,387140,mir21a,other
+<http://www.ncbi.nlm.nih.gov/gene/17395>,17395,mmp9,other
+<http://www.ncbi.nlm.nih.gov/gene/380792>,380792,ighe,other
+<http://www.ncbi.nlm.nih.gov/gene/16017>,16017,ighg1,other
+<http://www.ncbi.nlm.nih.gov/gene/105787>,105787,prkaa1,other
+<http://www.ncbi.nlm.nih.gov/gene/57875>,57875,angptl4,other
+<http://www.ncbi.nlm.nih.gov/gene/14776>,14776,gpx2,other
+<http://www.ncbi.nlm.nih.gov/gene/238055>,238055,apob,other
+<http://www.ncbi.nlm.nih.gov/gene/11829>,11829,aqp4,other
+<http://www.ncbi.nlm.nih.gov/gene/232889>,232889,pla2g4c,other
+<http://www.ncbi.nlm.nih.gov/gene/108079>,108079,prkaa2,other
+<http://www.ncbi.nlm.nih.gov/gene/20787>,20787,srebf1,other
+<http://www.ncbi.nlm.nih.gov/gene/20249>,20249,scd1,other
+<http://www.ncbi.nlm.nih.gov/gene/14104>,14104,fasn,other
+<http://www.ncbi.nlm.nih.gov/gene/11556>,11556,adrb3,other
+<http://www.ncbi.nlm.nih.gov/gene/66853>,66853,pnpla2,other
+<http://www.ncbi.nlm.nih.gov/gene/12896>,12896,cpt2,other
+<http://www.ncbi.nlm.nih.gov/gene/11430>,11430,acox1,other
+<http://www.ncbi.nlm.nih.gov/gene/19017>,19017,ppargc1a,other
+<http://www.ncbi.nlm.nih.gov/gene/12514>,12514,cd68,other
+<http://www.ncbi.nlm.nih.gov/gene/20296>,20296,ccl2,other
+<http://www.ncbi.nlm.nih.gov/gene/227394>,227394,slco4c1,other
+<http://www.ncbi.nlm.nih.gov/gene/21803>,21803,tgfb1,other
+<http://www.ncbi.nlm.nih.gov/gene/14268>,14268,fn1,other
+<http://www.ncbi.nlm.nih.gov/gene/12842>,12842,col1a1,other
+<http://www.ncbi.nlm.nih.gov/gene/12737>,12737,cldn1,other
+<http://www.ncbi.nlm.nih.gov/gene/21786>,21786,tff3,other
+<http://www.ncbi.nlm.nih.gov/gene/57263>,57263,retnlb,other
+<http://www.ncbi.nlm.nih.gov/gene/272411>,272411,b3gnt6,other
+<http://www.ncbi.nlm.nih.gov/gene/14537>,14537,gcnt1,other
+<http://www.ncbi.nlm.nih.gov/gene/14344>,14344,fut2,other
+<http://www.ncbi.nlm.nih.gov/gene/20440>,20440,st6gal1,other
+<http://www.ncbi.nlm.nih.gov/gene/77040>,77040,atg16l1,other
+<http://www.ncbi.nlm.nih.gov/gene/11793>,11793,atg5,other
+<http://www.ncbi.nlm.nih.gov/gene/56208>,56208,becn1,other
+<http://www.ncbi.nlm.nih.gov/gene/16784>,16784,lamp2,other
+<http://www.ncbi.nlm.nih.gov/gene/66734>,66734,map1lc3a,other
+<http://www.ncbi.nlm.nih.gov/gene/50929>,50929,il22,other
+<http://www.ncbi.nlm.nih.gov/gene/77125>,77125,il33,other
+<http://www.ncbi.nlm.nih.gov/gene/16163>,16163,il13,other
+<http://www.ncbi.nlm.nih.gov/gene/20309>,20309,cxcl15,other
+<http://www.ncbi.nlm.nih.gov/gene/213435>,213435,mylk3,other
+<http://www.ncbi.nlm.nih.gov/gene/15978>,15978,ifng,other
+<http://www.ncbi.nlm.nih.gov/gene/14526>,14526,gcg,other
+<http://www.ncbi.nlm.nih.gov/gene/84112>,84112,sucnr1,other
+<http://www.ncbi.nlm.nih.gov/gene/11475>,11475,acta2,other
+<http://www.ncbi.nlm.nih.gov/gene/21857>,21857,timp1,other
+<http://www.ncbi.nlm.nih.gov/gene/19016>,19016,pparg,other
+<http://www.ncbi.nlm.nih.gov/gene/18126>,18126,nos2,other
+<http://www.ncbi.nlm.nih.gov/gene/243764>,243764,chrm2,other
+<http://www.ncbi.nlm.nih.gov/gene/24088>,24088,tlr2,other
+<http://www.ncbi.nlm.nih.gov/gene/219990>,219990,tph1,other
+<http://www.ncbi.nlm.nih.gov/gene/15558>,15558,htr2a,other
+<http://www.ncbi.nlm.nih.gov/gene/15562>,15562,htr4,other
+<http://www.ncbi.nlm.nih.gov/gene/18260>,18260,ocln,other
+<http://www.ncbi.nlm.nih.gov/gene/13142>,13142,dao,other
+<http://www.ncbi.nlm.nih.gov/gene/21898>,21898,tlr4,other
+<http://www.ncbi.nlm.nih.gov/gene/546644>,546644,ly6g,other
+<http://www.ncbi.nlm.nih.gov/gene/233079>,233079,ffar2,other
+<http://www.ncbi.nlm.nih.gov/gene/216225>,216225,slc5a8,other
+<http://www.ncbi.nlm.nih.gov/gene/20186>,20186,nr1h4,other
+<http://www.ncbi.nlm.nih.gov/gene/14170>,14170,fgf15,other
+<http://www.ncbi.nlm.nih.gov/gene/14186>,14186,fgfr4,other
+<http://www.ncbi.nlm.nih.gov/gene/13122>,13122,cyp7a1,other
+<http://www.ncbi.nlm.nih.gov/gene/19261>,19261,sirpa,other
+<http://www.ncbi.nlm.nih.gov/gene/12895>,12895,cpt1b,other
+<http://www.ncbi.nlm.nih.gov/gene/14102>,14102,fas,other
+<http://www.ncbi.nlm.nih.gov/gene/233080>,233080,ffar3,other
+<http://www.ncbi.nlm.nih.gov/gene/18033>,18033,nfkb1,other
+<http://www.ncbi.nlm.nih.gov/gene/58205>,58205,pdcd1lg2,other
+<http://www.ncbi.nlm.nih.gov/gene/12524>,12524,cd86,other
+<http://www.ncbi.nlm.nih.gov/gene/21939>,21939,cd40,other
+<http://www.ncbi.nlm.nih.gov/gene/16160>,16160,il12b,other
+<http://www.ncbi.nlm.nih.gov/gene/80885>,80885,hcar2,other
+<http://www.ncbi.nlm.nih.gov/gene/16154>,16154,il10ra,other
+<http://www.ncbi.nlm.nih.gov/gene/11622>,11622,ahr,other
+<http://www.ncbi.nlm.nih.gov/gene/26417>,26417,mapk3,other
+<http://www.ncbi.nlm.nih.gov/gene/26413>,26413,mapk1,other
+<http://www.ncbi.nlm.nih.gov/gene/18571>,18571,pdcd6ip,other
+<http://www.ncbi.nlm.nih.gov/gene/70008>,70008,ace2,other
+<http://www.ncbi.nlm.nih.gov/gene/16159>,16159,il12a,other
+<http://www.ncbi.nlm.nih.gov/gene/14825>,14825,cxcl1,other
+<http://www.ncbi.nlm.nih.gov/gene/20310>,20310,cxcl2,other
+<http://www.ncbi.nlm.nih.gov/gene/20859>,20859,sult2a1,other
+<http://www.ncbi.nlm.nih.gov/gene/100043194>,100043194,sult2a2,other
+<http://www.ncbi.nlm.nih.gov/gene/629203>,629203,sult2a3,other
+<http://www.ncbi.nlm.nih.gov/gene/16189>,16189,il4,other
+<http://www.ncbi.nlm.nih.gov/gene/19013>,19013,ppara,other
+<http://www.ncbi.nlm.nih.gov/gene/16183>,16183,il2,other
+<http://www.ncbi.nlm.nih.gov/gene/7442>,7442,trpv1,other
+<http://www.ncbi.nlm.nih.gov/gene/7350>,7350,ucp1,other
+<http://www.ncbi.nlm.nih.gov/gene/10891>,10891,ppargc1a,other
+<http://www.ncbi.nlm.nih.gov/gene/1375>,1375,cpt1b,other
+<http://www.ncbi.nlm.nih.gov/gene/63976>,63976,prdm16,other
+<http://www.ncbi.nlm.nih.gov/gene/6899>,6899,tbx1,other
+<http://www.ncbi.nlm.nih.gov/gene/15183>,15183,hdac3,other
+<http://www.ncbi.nlm.nih.gov/gene/15184>,15184,hdac5,other
+<http://www.ncbi.nlm.nih.gov/gene/20464>,20464,sim1,other
+<http://www.ncbi.nlm.nih.gov/gene/20852>,20852,stat6,other
+<http://www.ncbi.nlm.nih.gov/gene/20482>,20482,skil,other
+<http://www.ncbi.nlm.nih.gov/gene/19213>,19213,ptf1a,other
+<http://www.ncbi.nlm.nih.gov/gene/19401>,19401,rara,other
+<http://www.ncbi.nlm.nih.gov/gene/11864>,11864,arnt2,other
+<http://www.ncbi.nlm.nih.gov/gene/16392>,16392,isl1,other
+<http://www.ncbi.nlm.nih.gov/gene/14815>,14815,nr3c1,other
+<http://www.ncbi.nlm.nih.gov/gene/21848>,21848,trim24,other
+<http://www.ncbi.nlm.nih.gov/gene/75605>,75605,kdm5b,other
+<http://www.ncbi.nlm.nih.gov/gene/18012>,18012,neurod1,other
+<http://www.ncbi.nlm.nih.gov/gene/20674>,20674,sox2,other
+<http://www.ncbi.nlm.nih.gov/gene/14462>,14462,gata3,other
+<http://www.ncbi.nlm.nih.gov/gene/11863>,11863,arnt,other
+<http://www.ncbi.nlm.nih.gov/gene/15379>,15379,onecut1,other
+<http://www.ncbi.nlm.nih.gov/gene/20666>,20666,sox11,other
+<http://www.ncbi.nlm.nih.gov/gene/19698>,19698,relb,other
+<http://www.ncbi.nlm.nih.gov/gene/14463>,14463,gata4,other
+<http://www.ncbi.nlm.nih.gov/gene/12591>,12591,cdx2,other
+<http://www.ncbi.nlm.nih.gov/gene/23872>,23872,ets2,other
+<http://www.ncbi.nlm.nih.gov/gene/21410>,21410,hnf1b,other
+<http://www.ncbi.nlm.nih.gov/gene/18128>,18128,notch1,other
+<http://www.ncbi.nlm.nih.gov/gene/54139>,54139,irf6,other
+<http://www.ncbi.nlm.nih.gov/gene/20466>,20466,sin3a,other
+<http://www.ncbi.nlm.nih.gov/gene/26992>,26992,brd7,other
+<http://www.ncbi.nlm.nih.gov/gene/21413>,21413,tcf4,other
+<http://www.ncbi.nlm.nih.gov/gene/17865>,17865,mybl2,other
+<http://www.ncbi.nlm.nih.gov/gene/14489>,14489,mtpn,other
+<http://www.ncbi.nlm.nih.gov/gene/13982>,13982,esr1,other
+<http://www.ncbi.nlm.nih.gov/gene/14235>,14235,foxm1,other
+<http://www.ncbi.nlm.nih.gov/gene/242705>,242705,e2f2,other
+<http://www.ncbi.nlm.nih.gov/gene/13557>,13557,e2f3,other
+<http://www.ncbi.nlm.nih.gov/gene/22642>,22642,zbtb17,other
+<http://www.ncbi.nlm.nih.gov/gene/12151>,12151,bmi1,other
+<http://www.ncbi.nlm.nih.gov/gene/116870>,116870,mta1,other
+<http://www.ncbi.nlm.nih.gov/gene/21652>,21652,phf1,other
+<http://www.ncbi.nlm.nih.gov/gene/15375>,15375,foxa1,other
+<http://www.ncbi.nlm.nih.gov/gene/17126>,17126,smad2,other
+<http://www.ncbi.nlm.nih.gov/gene/17127>,17127,smad3,other
+<http://www.ncbi.nlm.nih.gov/gene/17128>,17128,smad4,other
+<http://www.ncbi.nlm.nih.gov/gene/21781>,21781,tfdp1,other
+<http://www.ncbi.nlm.nih.gov/gene/18667>,18667,pgr,other
+<http://www.ncbi.nlm.nih.gov/gene/12753>,12753,clock,other
+<http://www.ncbi.nlm.nih.gov/gene/15213>,15213,hey1,other
+<http://www.ncbi.nlm.nih.gov/gene/12590>,12590,cdx1,other
+<http://www.ncbi.nlm.nih.gov/gene/67154>,67154,mtdh,other
+<http://www.ncbi.nlm.nih.gov/gene/17344>,17344,pias2,other
+<http://www.ncbi.nlm.nih.gov/gene/14581>,14581,gfi1,other
+<http://www.ncbi.nlm.nih.gov/gene/13170>,13170,dbp,other
+<http://www.ncbi.nlm.nih.gov/gene/11910>,11910,atf3,other
+<http://www.ncbi.nlm.nih.gov/gene/50754>,50754,fbxw7,other
+<http://www.ncbi.nlm.nih.gov/gene/66830>,66830,nacc1,other
+<http://www.ncbi.nlm.nih.gov/gene/19650>,19650,rbl1,other
+<http://www.ncbi.nlm.nih.gov/gene/21417>,21417,zeb1,other
+<http://www.ncbi.nlm.nih.gov/gene/24136>,24136,zeb2,other
+<http://www.ncbi.nlm.nih.gov/gene/19821>,19821,rnf2,other
+<http://www.ncbi.nlm.nih.gov/gene/19697>,19697,rela,other
+<http://www.ncbi.nlm.nih.gov/gene/18035>,18035,nfkbia,other
+<http://www.ncbi.nlm.nih.gov/gene/72749>,72749,tonsl,other
+<http://www.ncbi.nlm.nih.gov/gene/56484>,56484,foxo3,other
+<http://www.ncbi.nlm.nih.gov/gene/14461>,14461,gata2,other
+<http://www.ncbi.nlm.nih.gov/gene/12914>,12914,crebbp,other
+<http://www.ncbi.nlm.nih.gov/gene/12013>,12013,bach1,other
+<http://www.ncbi.nlm.nih.gov/gene/16476>,16476,jun,other
+<http://www.ncbi.nlm.nih.gov/gene/13983>,13983,esr2,other
+<http://www.ncbi.nlm.nih.gov/gene/15951>,15951,ifi204,other
+<http://www.ncbi.nlm.nih.gov/gene/12608>,12608,cebpb,other
+<http://www.ncbi.nlm.nih.gov/gene/20851>,20851,stat5b,other
+<http://www.ncbi.nlm.nih.gov/gene/66277>,66277,klf15,other
+<http://www.ncbi.nlm.nih.gov/gene/17286>,17286,meox2,other
+<http://www.ncbi.nlm.nih.gov/gene/20682>,20682,sox9,other
+<http://www.ncbi.nlm.nih.gov/gene/17131>,17131,smad7,other
+<http://www.ncbi.nlm.nih.gov/gene/20850>,20850,stat5a,other
+<http://www.ncbi.nlm.nih.gov/gene/18412>,18412,sqstm1,other
+<http://www.ncbi.nlm.nih.gov/gene/22337>,22337,vdr,other
+<http://www.ncbi.nlm.nih.gov/gene/26423>,26423,nr5a1,other
+<http://www.ncbi.nlm.nih.gov/gene/19712>,19712,rest,other
+<http://www.ncbi.nlm.nih.gov/gene/14390>,14390,gabpa,other
+<http://www.ncbi.nlm.nih.gov/gene/13198>,13198,ddit3,other
+<http://www.ncbi.nlm.nih.gov/gene/18181>,18181,nrf1,other
+<http://www.ncbi.nlm.nih.gov/gene/15370>,15370,nr4a1,other
+<http://www.ncbi.nlm.nih.gov/gene/18171>,18171,nr1i2,other
+<http://www.ncbi.nlm.nih.gov/gene/29560>,29560,hif1a,other
+<http://www.ncbi.nlm.nih.gov/gene/22346>,22346,vhl,other
+<http://www.ncbi.nlm.nih.gov/gene/22632>,22632,yy1,other
+<http://www.ncbi.nlm.nih.gov/gene/22059>,22059,trp53,other
+<http://www.ncbi.nlm.nih.gov/gene/30939>,30939,pttg1,other
+<http://www.ncbi.nlm.nih.gov/gene/15248>,15248,hic1,other
+<http://www.ncbi.nlm.nih.gov/gene/22062>,22062,trp73,other
+<http://www.ncbi.nlm.nih.gov/gene/19645>,19645,rb1,other
+<http://www.ncbi.nlm.nih.gov/gene/54601>,54601,foxo4,other
+<http://www.ncbi.nlm.nih.gov/gene/228980>,228980,taf4,other
+<http://www.ncbi.nlm.nih.gov/gene/17095>,17095,lyl1,other
+<http://www.ncbi.nlm.nih.gov/gene/12916>,12916,crem,other
+<http://www.ncbi.nlm.nih.gov/gene/16842>,16842,lef1,other
+<http://www.ncbi.nlm.nih.gov/gene/17869>,17869,myc,other
+<http://www.ncbi.nlm.nih.gov/gene/14281>,14281,fos,other
+<http://www.ncbi.nlm.nih.gov/gene/21420>,21420,tfap2c,other
+<http://www.ncbi.nlm.nih.gov/gene/20846>,20846,stat1,other
+<http://www.ncbi.nlm.nih.gov/gene/12224>,12224,klf5,other
+<http://www.ncbi.nlm.nih.gov/gene/14056>,14056,ezh2,other
+<http://www.ncbi.nlm.nih.gov/gene/230233>,230233,elp1,other
+<http://www.ncbi.nlm.nih.gov/gene/12912>,12912,creb1,other
+<http://www.ncbi.nlm.nih.gov/gene/18044>,18044,nfya,other
+<http://www.ncbi.nlm.nih.gov/gene/13555>,13555,e2f1,other
+<http://www.ncbi.nlm.nih.gov/gene/22061>,22061,trp63,other
+<http://www.ncbi.nlm.nih.gov/gene/56458>,56458,foxo1,other
+<http://www.ncbi.nlm.nih.gov/gene/16598>,16598,klf2,other
+<http://www.ncbi.nlm.nih.gov/gene/22057>,22057,tob1,other
+<http://www.ncbi.nlm.nih.gov/gene/21423>,21423,tcf3,other
+<http://www.ncbi.nlm.nih.gov/gene/20849>,20849,stat4,other
+<http://www.ncbi.nlm.nih.gov/gene/12053>,12053,bcl6,other
+<http://www.ncbi.nlm.nih.gov/gene/21405>,21405,hnf1a,other
+<http://www.ncbi.nlm.nih.gov/gene/18024>,18024,nfe2l2,other
+<http://www.ncbi.nlm.nih.gov/gene/14632>,14632,gli1,other
+<http://www.ncbi.nlm.nih.gov/gene/11925>,11925,neurog3,other
+<http://www.ncbi.nlm.nih.gov/gene/14247>,14247,fli1,other
+<http://www.ncbi.nlm.nih.gov/gene/12387>,12387,ctnnb1,other
+<http://www.ncbi.nlm.nih.gov/gene/13653>,13653,egr1,other
+<http://www.ncbi.nlm.nih.gov/gene/328572>,328572,ep300,other
+<http://www.ncbi.nlm.nih.gov/gene/18609>,18609,pdx1,other
+<http://www.ncbi.nlm.nih.gov/gene/56711>,56711,plag1,other
+<http://www.ncbi.nlm.nih.gov/gene/17428>,17428,mnt,other
+<http://www.ncbi.nlm.nih.gov/gene/56505>,56505,ruvbl1,other
+<http://www.ncbi.nlm.nih.gov/gene/15251>,15251,hif1a,other
+<http://www.ncbi.nlm.nih.gov/gene/13819>,13819,epas1,other
+<http://www.ncbi.nlm.nih.gov/gene/11865>,11865,arntl,other
+<http://www.ncbi.nlm.nih.gov/gene/11866>,11866,arntl,other
+<http://www.ncbi.nlm.nih.gov/gene/12578>,12578,cdkn2a,other
+<http://www.ncbi.nlm.nih.gov/gene/18129>,18129,notch2,other
+<http://www.ncbi.nlm.nih.gov/gene/18131>,18131,notch3,other
+<http://www.ncbi.nlm.nih.gov/gene/18132>,18132,notch4,other
+<http://www.ncbi.nlm.nih.gov/gene/11911>,11911,atf4,other
+<http://www.ncbi.nlm.nih.gov/gene/12189>,12189,brca1,other
+<http://www.ncbi.nlm.nih.gov/gene/15378>,15378,hnf4a,other
+<http://www.ncbi.nlm.nih.gov/gene/21385>,21385,tbx2,other
+<http://www.ncbi.nlm.nih.gov/gene/56312>,56312,nupr1,other
+<http://www.ncbi.nlm.nih.gov/gene/18089>,18089,nkx2-3,other
+<http://www.ncbi.nlm.nih.gov/gene/21938>,21938,tnfrsf1b,other
+<http://www.ncbi.nlm.nih.gov/gene/233081>,233081,ffar1,other
+<http://www.ncbi.nlm.nih.gov/gene/18669>,18669,abcb1b,other
+<http://www.ncbi.nlm.nih.gov/gene/13112>,13112,cyp3a11,other
+<http://www.ncbi.nlm.nih.gov/gene/394436>,394436,ugt1a1,other
+<http://www.ncbi.nlm.nih.gov/gene/64564>,64564,bbox1,other
+<http://www.ncbi.nlm.nih.gov/gene/10619>,10619,ighm,other
+<http://www.ncbi.nlm.nih.gov/gene/11846>,11846,arg1,other
+<http://www.ncbi.nlm.nih.gov/gene/11651>,11651,akt1,other
+<http://www.ncbi.nlm.nih.gov/gene/12367>,12367,casp3,other
+<http://www.ncbi.nlm.nih.gov/gene/12064>,12064,bdnf,other
+<http://www.ncbi.nlm.nih.gov/gene/20655>,20655,sod1,other
+<http://www.ncbi.nlm.nih.gov/gene/12359>,12359,cat,other
+<http://www.ncbi.nlm.nih.gov/gene/16409>,16409,itgam,other
+<http://www.ncbi.nlm.nih.gov/gene/16191>,16191,il5,other
+<http://www.ncbi.nlm.nih.gov/gene/15930>,15930,ido1,other
+<http://www.ncbi.nlm.nih.gov/gene/14377>,14377,g6pc,other
+<http://www.ncbi.nlm.nih.gov/gene/12894>,12894,cpt1a,other
+<http://www.ncbi.nlm.nih.gov/gene/20528>,20528,slc2a4,other
+<http://www.ncbi.nlm.nih.gov/gene/22227>,22227,ucp1,other
+<http://www.ncbi.nlm.nih.gov/gene/246779>,246779,il27,other
+<http://www.ncbi.nlm.nih.gov/gene/60533>,60533,cd274,other
+<http://www.ncbi.nlm.nih.gov/gene/12495>,12495,entpd1,other
+<http://www.ncbi.nlm.nih.gov/gene/21873>,21873,tjp2,other
+<http://www.ncbi.nlm.nih.gov/gene/16456>,16456,f11r,other
+<http://www.ncbi.nlm.nih.gov/gene/17874>,17874,myd88,other
+<http://www.ncbi.nlm.nih.gov/gene/17236>,17236,mct1,other
+<http://www.ncbi.nlm.nih.gov/gene/14598>,14598,ggt1,other
+<http://www.ncbi.nlm.nih.gov/gene/235504>,235504,slc17a5,other
+<http://www.ncbi.nlm.nih.gov/gene/76282>,76282,gpt,other
+<http://www.ncbi.nlm.nih.gov/gene/12491>,12491,cd36,other
+<http://www.ncbi.nlm.nih.gov/gene/25598>,25598,fabp2,other
+<http://www.ncbi.nlm.nih.gov/gene/12768>,12768,ccr1,other
+<http://www.ncbi.nlm.nih.gov/gene/20303>,20303,ccl4,other
+<http://www.ncbi.nlm.nih.gov/gene/12043>,12043,bcl2,other
+<http://www.ncbi.nlm.nih.gov/gene/21933>,21933,tnfrsf10b,other
+<http://www.ncbi.nlm.nih.gov/gene/12801>,12801,cnr1,other
+<http://www.ncbi.nlm.nih.gov/gene/57314>,57314,nelfcd,other
+<http://www.ncbi.nlm.nih.gov/gene/105243>,105243,slc9a3,other
+<http://www.ncbi.nlm.nih.gov/gene/13487>,13487,slc26a3,other
+<http://www.ncbi.nlm.nih.gov/gene/12304>,12304,pdia4,other
+<http://www.ncbi.nlm.nih.gov/gene/12349>,12349,car2,other
+<http://www.ncbi.nlm.nih.gov/gene/59020>,59020,pdzk1,other
+<http://www.ncbi.nlm.nih.gov/gene/16173>,16173,il18,other
+<http://www.ncbi.nlm.nih.gov/gene/12006>,12006,axin2,other
+<http://www.ncbi.nlm.nih.gov/gene/12505>,12505,cd44,other
+<http://www.ncbi.nlm.nih.gov/gene/13844>,13844,ephb2,other
+<http://www.ncbi.nlm.nih.gov/gene/12443>,12443,ccnd1,other
+<http://www.ncbi.nlm.nih.gov/gene/14810>,14810,grin1,other
+<http://www.ncbi.nlm.nih.gov/gene/230405>,230405,ifne,other
+<http://www.ncbi.nlm.nih.gov/gene/13070>,13070,cyp11a1,other
+<http://www.ncbi.nlm.nih.gov/gene/110115>,110115,cyp11b1,other
+<http://www.ncbi.nlm.nih.gov/gene/15483>,15483,hsd11b1,other
+<http://www.ncbi.nlm.nih.gov/gene/15484>,15484,hsd11b2,other
+<http://www.ncbi.nlm.nih.gov/gene/18948>,18948,pnmt,other
+<http://www.ncbi.nlm.nih.gov/gene/20788>,20788,srebf2,other
+<http://www.ncbi.nlm.nih.gov/gene/15357>,15357,hmgcr,other
+<http://purl.obolibrary.org/obo/CHEBI_4167>,CHEBI_4167,d-glucose,other
+<http://purl.obolibrary.org/obo/CHEBI_30089>,CHEBI_30089,acetate,other
+<http://purl.obolibrary.org/obo/CHEBI_17814>,CHEBI_17814,salicin,other
+<http://purl.obolibrary.org/obo/CHEBI_53455>,CHEBI_53455,d-xylose,other
+<http://purl.obolibrary.org/obo/CHEBI_17535>,CHEBI_17535,l-arabinose,other
+<http://purl.obolibrary.org/obo/CHEBI_62346>,CHEBI_62346,l-rhamnose,other
+<http://purl.obolibrary.org/obo/CHEBI_4208>,CHEBI_4208,d-mannose,other
+<http://purl.obolibrary.org/obo/CHEBI_17968>,CHEBI_17968,butyrate,other
+<http://purl.obolibrary.org/obo/CHEBI_7781>,CHEBI_7781,orientin,other
+<http://purl.obolibrary.org/obo/CHEBI_15864>,CHEBI_15864,luteolin,other
+<http://purl.obolibrary.org/obo/CHEBI_22868>,CHEBI_22868,bile acid,other
+<http://purl.obolibrary.org/obo/CHEBI_28834>,CHEBI_28834,deoxycholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16359>,CHEBI_16359,cholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16755>,CHEBI_16755,chenodeoxycholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16325>,CHEBI_16325,lithocholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16113>,CHEBI_16113,cholesterol,other
+<http://purl.obolibrary.org/obo/CHEBI_176711>,CHEBI_176711,(4s)-4-[(2e)-oct-2-enoyloxy]-4-(trimethylazaniumyl)butanoate,other
+<http://purl.obolibrary.org/obo/CHEBI_17272>,CHEBI_17272,propionate,other
+<http://purl.obolibrary.org/obo/CHEBI_27994>,CHEBI_27994,cynaroside,other
+<http://purl.obolibrary.org/obo/CHEBI_166890>,CHEBI_166890,phenolic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17948>,CHEBI_17948,taxifolin,other
+<http://purl.obolibrary.org/obo/CHEBI_17276>,CHEBI_17276,phloretin,other
+<http://purl.obolibrary.org/obo/CHEBI_50202>,CHEBI_50202,"5,7-dihydroxy-2-(4-hydroxyphenyl)chroman-4-one",other
+<http://purl.obolibrary.org/obo/CHEBI_28412>,CHEBI_28412,eriodictyol,other
+<http://purl.obolibrary.org/obo/CHEBI_28499>,CHEBI_28499,kaempferol,other
+<http://purl.obolibrary.org/obo/CHEBI_28527>,CHEBI_28527,rutin,other
+<http://purl.obolibrary.org/obo/CHEBI_16243>,CHEBI_16243,quercetin,other
+<http://purl.obolibrary.org/obo/CHEBI_68352>,CHEBI_68352,isoquercitrin,other
+<http://purl.obolibrary.org/obo/CHEBI_41941>,CHEBI_41941,"3,4-dihydroxyphenylacetic acid",other
+<http://purl.obolibrary.org/obo/CHEBI_48400>,CHEBI_48400,dihydrocaffeic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_18101>,CHEBI_18101,4-hydroxyphenylacetic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_32980>,CHEBI_32980,3-(4-hydroxyphenyl)propionic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16204>,CHEBI_16204,phloroglucinol,other
+<http://purl.obolibrary.org/obo/CHEBI_43355>,CHEBI_43355,indoxyl sulfate,other
+<http://purl.obolibrary.org/obo/CHEBI_82914>,CHEBI_82914,p-cresol sulfate,other
+<http://purl.obolibrary.org/obo/CHEBI_17884>,CHEBI_17884,phenylacetylglutamine,other
+<http://purl.obolibrary.org/obo/CHEBI_28197>,CHEBI_28197,daidzein,other
+<http://purl.obolibrary.org/obo/CHEBI_75842>,CHEBI_75842,dihydrodaidzein,other
+<http://purl.obolibrary.org/obo/CHEBI_42202>,CHEBI_42202,daidzin,other
+<http://purl.obolibrary.org/obo/CHEBI_34741>,CHEBI_34741,equol,other
+<http://purl.obolibrary.org/obo/CHEBI_62064>,CHEBI_62064,"2,3-butanediol",other
+<http://purl.obolibrary.org/obo/CHEBI_15361>,CHEBI_15361,pyruvate,other
+<http://purl.obolibrary.org/obo/CHEBI_15688>,CHEBI_15688,acetoin,other
+<http://purl.obolibrary.org/obo/CHEBI_16583>,CHEBI_16583,"2,3-butanedione",other
+<http://purl.obolibrary.org/obo/CHEBI_15354>,CHEBI_15354,choline,other
+<http://purl.obolibrary.org/obo/CHEBI_18139>,CHEBI_18139,trimethylamine,other
+<http://purl.obolibrary.org/obo/CHEBI_17126>,CHEBI_17126,carnitine,other
+<http://purl.obolibrary.org/obo/CHEBI_15724>,CHEBI_15724,trimethylamine oxide,other
+<http://purl.obolibrary.org/obo/CHEBI_88902>,CHEBI_88902,o-desmethylangolensin,other
+<http://purl.obolibrary.org/obo/CHEBI_15600>,CHEBI_15600,cianidanol,other
+<http://purl.obolibrary.org/obo/CHEBI_90>,CHEBI_90,(-)-epicatechin,other
+<http://purl.obolibrary.org/obo/CHEBI_42111>,CHEBI_42111,d-lactic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30031>,CHEBI_30031,succinate,other
+<http://purl.obolibrary.org/obo/CHEBI_43580>,CHEBI_43580,3-indolepropionic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16112>,CHEBI_16112,chlorogenic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16433>,CHEBI_16433,caffeic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_1427>,CHEBI_1427,3-(3-hydroxyphenyl)propanoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30745>,CHEBI_30745,phenylacetic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_18388>,CHEBI_18388,apigenin,other
+<http://purl.obolibrary.org/obo/CHEBI_28088>,CHEBI_28088,genistein,other
+<http://purl.obolibrary.org/obo/CHEBI_171798>,CHEBI_171798,isoxanthohumol,other
+<http://purl.obolibrary.org/obo/CHEBI_50207>,CHEBI_50207,8-prenylnaringenin,other
+<http://purl.obolibrary.org/obo/CHEBI_16977>,CHEBI_16977,alanine,other
+<http://purl.obolibrary.org/obo/CHEBI_15603>,CHEBI_15603,leucine,other
+<http://purl.obolibrary.org/obo/CHEBI_17191>,CHEBI_17191,l-isoleucine,other
+<http://purl.obolibrary.org/obo/CHEBI_15428>,CHEBI_15428,glycine,other
+<http://purl.obolibrary.org/obo/CHEBI_17203>,CHEBI_17203,proline,other
+<http://purl.obolibrary.org/obo/CHEBI_17115>,CHEBI_17115,serine,other
+<http://purl.obolibrary.org/obo/CHEBI_30764>,CHEBI_30764,3-hydroxybenzoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30763>,CHEBI_30763,4-hydroxybenzoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16802>,CHEBI_16802,sedoheptulose,other
+<http://purl.obolibrary.org/obo/CHEBI_30769>,CHEBI_30769,citric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_45969>,CHEBI_45969,tricarballylic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17964>,CHEBI_17964,pipecolic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_6650>,CHEBI_6650,malic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_15674>,CHEBI_15674,tartaric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16919>,CHEBI_16919,creatine,other
+<http://purl.obolibrary.org/obo/CHEBI_16737>,CHEBI_16737,2-imino-1-methylimidazolidin-4-one,other
+<http://purl.obolibrary.org/obo/CHEBI_17687>,CHEBI_17687,glycocholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_28631>,CHEBI_28631,3-phenylpropionic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17405>,CHEBI_17405,4-pyridoxic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_81556>,CHEBI_81556,enterodiol,other
+<http://purl.obolibrary.org/obo/CHEBI_28775>,CHEBI_28775,hesperidin,other
+<http://purl.obolibrary.org/obo/CHEBI_166892>,CHEBI_166892,aglycone,other
+<http://purl.obolibrary.org/obo/CHEBI_72813>,CHEBI_72813,exopolysaccharides,other
+<http://purl.obolibrary.org/obo/CHEBI_24996>,CHEBI_24996,lactate,other
+<http://purl.obolibrary.org/obo/CHEBI_15765>,CHEBI_15765,levodopa,other
+<http://purl.obolibrary.org/obo/CHEBI_16189>,CHEBI_16189,sulfate,other
+<http://purl.obolibrary.org/obo/CHEBI_82619>,CHEBI_82619,baohuoside i,other
+<http://purl.obolibrary.org/obo/CHEBI_8633>,CHEBI_8633,puerarin,other
+<http://purl.obolibrary.org/obo/CHEBI_15740>,CHEBI_15740,formate,other
+<http://purl.obolibrary.org/obo/CHEBI_16651>,CHEBI_16651,l-lactate,other
+<http://purl.obolibrary.org/obo/CHEBI_16236>,CHEBI_16236,ethanol,other
+<http://purl.obolibrary.org/obo/CHEBI_70436>,CHEBI_70436,platycodin d,other
+<http://purl.obolibrary.org/obo/CHEBI_3684>,CHEBI_3684,"5,7-dimethoxyflavone",other
+<http://purl.obolibrary.org/obo/CHEBI_75095>,CHEBI_75095,chrysin,other
+<http://purl.obolibrary.org/obo/CHEBI_174981>,CHEBI_174981,"4',5,7-trimethoxyflavone",other
+<http://purl.obolibrary.org/obo/CHEBI_4775>,CHEBI_4775,ellagic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16449>,CHEBI_16449,dl-alanine,other
+<http://purl.obolibrary.org/obo/CHEBI_22191>,CHEBI_22191,acetyl phosphate(2-),other
+<http://purl.obolibrary.org/obo/CHEBI_15971>,CHEBI_15971,histidine,other
+<http://purl.obolibrary.org/obo/CHEBI_17561>,CHEBI_17561,l-cysteine,other
+<http://purl.obolibrary.org/obo/CHEBI_17376>,CHEBI_17376,cystine,other
+<http://purl.obolibrary.org/obo/CHEBI_16856>,CHEBI_16856,glutathione,other
+<http://purl.obolibrary.org/obo/CHEBI_17196>,CHEBI_17196,asparagine,other
+<http://purl.obolibrary.org/obo/CHEBI_28171>,CHEBI_28171,5-hydroxytryptophan,other
+<http://purl.obolibrary.org/obo/CHEBI_16828>,CHEBI_16828,tryptophan,other
+<http://purl.obolibrary.org/obo/CHEBI_24813>,CHEBI_24813,indole-3-lactic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17895>,CHEBI_17895,tyrosine,other
+<http://purl.obolibrary.org/obo/CHEBI_17385>,CHEBI_17385,2-hydroxy-3-(4-hydroxyphenyl)propanoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17807>,CHEBI_17807,"3-(3,4-dihydroxyphenyl)-2-hydroxypropanoic acid",other
+<http://purl.obolibrary.org/obo/CHEBI_4630>,CHEBI_4630,diosmetin,other
+<http://purl.obolibrary.org/obo/CHEBI_15335>,CHEBI_15335,acacetin,other
+<http://purl.obolibrary.org/obo/CHEBI_3745>,CHEBI_3745,clindamycin,other
+<http://purl.obolibrary.org/obo/CHEBI_31011>,CHEBI_31011,valerate,other
+<http://purl.obolibrary.org/obo/CHEBI_28865>,CHEBI_28865,taurocholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_45713>,CHEBI_45713,resveratrol,other
+<http://purl.obolibrary.org/obo/CHEBI_4582>,CHEBI_4582,dihydroresveratrol,other
+<http://purl.obolibrary.org/obo/CHEBI_6568>,CHEBI_6568,lunularin,other
+<http://purl.obolibrary.org/obo/CHEBI_64598>,CHEBI_64598,"1-((3,5-dichloro)-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone",other
+<http://purl.obolibrary.org/obo/CHEBI_156303>,CHEBI_156303,colibactin,other
+<http://purl.obolibrary.org/obo/CHEBI_28645>,CHEBI_28645,beta-d-fructofuranose,other
+<http://purl.obolibrary.org/obo/CHEBI_27514>,CHEBI_27514,genistin,other
+<http://purl.obolibrary.org/obo/CHEBI_34707>,CHEBI_34707,dihydrogenistein,other
+<http://purl.obolibrary.org/obo/CHEBI_28484>,CHEBI_28484,isovaleric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_15756>,CHEBI_15756,palmitic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_42717>,CHEBI_42717,d-glucuronic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17336>,CHEBI_17336,retinol,other
+<http://purl.obolibrary.org/obo/CHEBI_15367>,CHEBI_15367,tretinoin,other
+<http://purl.obolibrary.org/obo/CHEBI_17351>,CHEBI_17351,linoleic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17558>,CHEBI_17558,quercitrin,other
+<http://purl.obolibrary.org/obo/CHEBI_36062>,CHEBI_36062,"3,4-dihydroxybenzoic acid",other
+<http://purl.obolibrary.org/obo/CHEBI_17924>,CHEBI_17924,d-sorbitol,other
+<http://purl.obolibrary.org/obo/CHEBI_18305>,CHEBI_18305,arbutin,other
+<http://purl.obolibrary.org/obo/CHEBI_17594>,CHEBI_17594,hydroquinone,other
+<http://purl.obolibrary.org/obo/CHEBI_17574>,CHEBI_17574,biochanin a,other
+<http://purl.obolibrary.org/obo/CHEBI_18088>,CHEBI_18088,formononetin,other
+<http://purl.obolibrary.org/obo/CHEBI_34778>,CHEBI_34778,glycitein,other
+<http://purl.obolibrary.org/obo/CHEBI_74957>,CHEBI_74957,"6,7,4'-trihydroxyisoflavone",other
+<http://purl.obolibrary.org/obo/CHEBI_4806>,CHEBI_4806,(-)-epigallocatechin gallate,other
+<http://purl.obolibrary.org/obo/CHEBI_137478>,CHEBI_137478,"4-hydroxy-(3',4'-dihydroxyphenyl)-valeric acid",other
+<http://purl.obolibrary.org/obo/CHEBI_27470>,CHEBI_27470,folic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_174736>,CHEBI_174736,dihydroglycitein,other
+<http://purl.obolibrary.org/obo/CHEBI_17521>,CHEBI_17521,quinic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_15824>,CHEBI_15824,d-fructose,other
+<http://purl.obolibrary.org/obo/CHEBI_44897>,CHEBI_44897,phosphoenolpyruvate,other
+<http://purl.obolibrary.org/obo/CHEBI_30744>,CHEBI_30744,oxalacetic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_29806>,CHEBI_29806,fumarate,other
+<http://purl.obolibrary.org/obo/CHEBI_6682>,CHEBI_6682,mangiferin,other
+<http://purl.obolibrary.org/obo/CHEBI_7622>,CHEBI_7622,norathyriol,other
+<http://purl.obolibrary.org/obo/CHEBI_15758>,CHEBI_15758,leucocianidol,other
+<http://purl.obolibrary.org/obo/CHEBI_76989>,CHEBI_76989,phytoestrogens,other
+<http://purl.obolibrary.org/obo/CHEBI_17754>,CHEBI_17754,glycerol,other
+<http://purl.obolibrary.org/obo/CHEBI_5299>,CHEBI_5299,geniposide,other
+<http://purl.obolibrary.org/obo/CHEBI_5298>,CHEBI_5298,genipin,other
+<http://purl.obolibrary.org/obo/CHEBI_28238>,CHEBI_28238,indole-3-carboxaldehyde,other
+<http://purl.obolibrary.org/obo/CHEBI_66773>,CHEBI_66773,poncirin,other
+<http://purl.obolibrary.org/obo/CHEBI_18220>,CHEBI_18220,isoflavone,other
+<http://purl.obolibrary.org/obo/CHEBI_27707>,CHEBI_27707,"galbeta1,3glcnac",other
+<http://purl.obolibrary.org/obo/CHEBI_30248>,CHEBI_30248,lacto-n-tetraose,other
+<http://purl.obolibrary.org/obo/CHEBI_60152>,CHEBI_60152,n-acetyl-d-lactosamine,other
+<http://purl.obolibrary.org/obo/CHEBI_60239>,CHEBI_60239,beta-d-gal-(1->4)-beta-d-glcnac-(1->3)-beta-d-gal-(1->4)-d-glc,other
+<http://purl.obolibrary.org/obo/CHEBI_42056>,CHEBI_42056,"2,4-dioxopentanedioic acid",other
+<http://purl.obolibrary.org/obo/CHEBI_88662>,CHEBI_88662,6'-hydroxy-o-desmethylangolensin,other
+<http://purl.obolibrary.org/obo/CHEBI_16954>,CHEBI_16954,vitexin,other
+<http://purl.obolibrary.org/obo/CHEBI_18243>,CHEBI_18243,dopamine,other
+<http://purl.obolibrary.org/obo/CHEBI_76290>,CHEBI_76290,"2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine",other
+<http://purl.obolibrary.org/obo/CHEBI_67989>,CHEBI_67989,ginsenoside rb1,other
+<http://purl.obolibrary.org/obo/CHEBI_67988>,CHEBI_67988,ginsenoside-rd,other
+<http://purl.obolibrary.org/obo/CHEBI_15771>,CHEBI_15771,loganin,other
+<http://purl.obolibrary.org/obo/CHEBI_80793>,CHEBI_80793,arctiin,other
+<http://purl.obolibrary.org/obo/CHEBI_79>,CHEBI_79,arctigenin,other
+<http://purl.obolibrary.org/obo/CHEBI_9907>,CHEBI_9907,ursodeoxycholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17295>,CHEBI_17295,phenylalanine,other
+<http://purl.obolibrary.org/obo/CHEBI_16015>,CHEBI_16015,glutamic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16857>,CHEBI_16857,l-threonine,other
+<http://purl.obolibrary.org/obo/CHEBI_16881>,CHEBI_16881,indole,other
+<http://purl.obolibrary.org/obo/CHEBI_80373>,CHEBI_80373,glycitin,other
+<http://purl.obolibrary.org/obo/CHEBI_30200>,CHEBI_30200,astragalin,other
+<http://purl.obolibrary.org/obo/CHEBI_30817>,CHEBI_30817,urocanic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_88290>,CHEBI_88290,5-hydroxy-1h-imidazole-4-carboxamide,other
+<http://purl.obolibrary.org/obo/CHEBI_67991>,CHEBI_67991,ginsenoside rg3,other
+<http://purl.obolibrary.org/obo/CHEBI_77147>,CHEBI_77147,ginsenoside rh2,other
+<http://purl.obolibrary.org/obo/CHEBI_75950>,CHEBI_75950,(20s)-protopanaxadiol,other
+<http://purl.obolibrary.org/obo/CHEBI_67990>,CHEBI_67990,(20r)-ginsenoside rg3,other
+<http://purl.obolibrary.org/obo/CHEBI_172776>,CHEBI_172776,20(r)-ginsenoside rh2,other
+<http://purl.obolibrary.org/obo/CHEBI_76237>,CHEBI_76237,protopanaxadiol,other
+<http://purl.obolibrary.org/obo/CHEBI_37739>,CHEBI_37739,glycerophospholipids,other
+<http://purl.obolibrary.org/obo/CHEBI_2181>,CHEBI_2181,l-fucose,other
+<http://purl.obolibrary.org/obo/CHEBI_28831>,CHEBI_28831,propanol,other
+<http://purl.obolibrary.org/obo/CHEBI_10980>,CHEBI_10980,(r)-3-(4-hydroxyphenyl)lactate,other
+<http://purl.obolibrary.org/obo/CHEBI_65460>,CHEBI_65460,avicularin,other
+<http://purl.obolibrary.org/obo/CHEBI_28529>,CHEBI_28529,quercimeritrin,other
+<http://purl.obolibrary.org/obo/CHEBI_18276>,CHEBI_18276,hydrogen,other
+<http://purl.obolibrary.org/obo/CHEBI_16135>,CHEBI_16135,isobutyric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_33992>,CHEBI_33992,(-)-catechin,other
+<http://purl.obolibrary.org/obo/CHEBI_70082>,CHEBI_70082,myricitrin,other
+<http://purl.obolibrary.org/obo/CHEBI_18152>,CHEBI_18152,myricetin,other
+<http://purl.obolibrary.org/obo/CHEBI_17057>,CHEBI_17057,d-(+)-cellobiose,other
+<http://purl.obolibrary.org/obo/CHEBI_87986>,CHEBI_87986,p-cresol glucuronide,other
+<http://purl.obolibrary.org/obo/CHEBI_65004>,CHEBI_65004,secoisolariciresinol,other
+<http://purl.obolibrary.org/obo/CHEBI_67246>,CHEBI_67246,lariciresinol,other
+<http://purl.obolibrary.org/obo/CHEBI_40>,CHEBI_40,pinoresinol,other
+<http://purl.obolibrary.org/obo/CHEBI_6698>,CHEBI_6698,matairesinol,other
+<http://purl.obolibrary.org/obo/CHEBI_15413>,CHEBI_15413,naringenin chalcone,other
+<http://purl.obolibrary.org/obo/CHEBI_8878>,CHEBI_8878,kaempferol-3-o-gal-rham-7-o-rham,other
+<http://purl.obolibrary.org/obo/CHEBI_28364>,CHEBI_28364,eicosapentaenoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16973>,CHEBI_16973,desoxycortone,other
+<http://purl.obolibrary.org/obo/CHEBI_17759>,CHEBI_17759,7-dehydrocholesterol,other
+<http://purl.obolibrary.org/obo/CHEBI_28875>,CHEBI_28875,myristic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30746>,CHEBI_30746,benzoic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_16411>,CHEBI_16411,indole-3-acetic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_42255>,CHEBI_42255,epigallocatechin,other
+<http://purl.obolibrary.org/obo/CHEBI_71225>,CHEBI_71225,(-)-gallocatechin,other
+<http://purl.obolibrary.org/obo/CHEBI_24809>,CHEBI_24809,indole-3-carboxylic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_29750>,CHEBI_29750,indole-3-pyruvic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30851>,CHEBI_30851,phenylpyruvic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_50392>,CHEBI_50392,atrolactic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_27823>,CHEBI_27823,5-hydroxyindole-3-acetic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_15760>,CHEBI_15760,tyramine,other
+<http://purl.obolibrary.org/obo/CHEBI_16414>,CHEBI_16414,valine,other
+<http://purl.obolibrary.org/obo/CHEBI_60954>,CHEBI_60954,2-hydroxy-2-methylbutanenitrile,other
+<http://purl.obolibrary.org/obo/CHEBI_17768>,CHEBI_17768,n-acetylputrescine,other
+<http://purl.obolibrary.org/obo/CHEBI_85533>,CHEBI_85533,betonicine,other
+<http://purl.obolibrary.org/obo/CHEBI_63153>,CHEBI_63153,n-acetyl-d-mannosamine,other
+<http://purl.obolibrary.org/obo/CHEBI_1098>,CHEBI_1098,2-formaminobenzoylacetate,other
+<http://purl.obolibrary.org/obo/CHEBI_139134>,CHEBI_139134,12-ketolithocholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_133661>,CHEBI_133661,hyocholate,other
+<http://purl.obolibrary.org/obo/CHEBI_17368>,CHEBI_17368,hypoxanthine,other
+<http://purl.obolibrary.org/obo/CHEBI_17645>,CHEBI_17645,4-acetamidobutyric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17604>,CHEBI_17604,n(6)-methyllysine,other
+<http://purl.obolibrary.org/obo/CHEBI_70984>,CHEBI_70984,n-isovaleroylglycine,other
+<http://purl.obolibrary.org/obo/CHEBI_58876>,CHEBI_58876,murideoxycholate,other
+<http://purl.obolibrary.org/obo/CHEBI_50713>,CHEBI_50713,pentahomomethionine,other
+<http://purl.obolibrary.org/obo/CHEBI_81610>,CHEBI_81610,1-methoxypyrene,other
+<http://purl.obolibrary.org/obo/CHEBI_78320>,CHEBI_78320,lactic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_37080>,CHEBI_37080,acrylate,other
+<http://purl.obolibrary.org/obo/CHEBI_85289>,CHEBI_85289,phenyl sulfate,other
+<http://purl.obolibrary.org/obo/CHEBI_16865>,CHEBI_16865,gamma-aminobutyric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17258>,CHEBI_17258,purine,other
+<http://purl.obolibrary.org/obo/CHEBI_17775>,CHEBI_17775,uric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_34974>,CHEBI_34974,sennoside,other
+<http://purl.obolibrary.org/obo/CHEBI_174546>,CHEBI_174546,rheinanthrone,other
+<http://purl.obolibrary.org/obo/CHEBI_17009>,CHEBI_17009,gdp-l-fucose,other
+<http://purl.obolibrary.org/obo/CHEBI_17858>,CHEBI_17858,oxiglutatione,other
+<http://purl.obolibrary.org/obo/CHEBI_27915>,CHEBI_27915,melamine,other
+<http://purl.obolibrary.org/obo/CHEBI_38028>,CHEBI_38028,cyanuric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_63552>,CHEBI_63552,"1-phenyl-1,2-propanedione",other
+<http://purl.obolibrary.org/obo/CHEBI_30915>,CHEBI_30915,2-oxoglutaric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17620>,CHEBI_17620,ferulic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_86612>,CHEBI_86612,3-(4-hydroxy-3-methoxyphenyl)propionic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_4828>,CHEBI_4828,ergothioneine,other
+<http://purl.obolibrary.org/obo/CHEBI_16390>,CHEBI_16390,7-ketodeoxycholic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_6052>,CHEBI_6052,isorhamnetin,other
+<http://purl.obolibrary.org/obo/CHEBI_175929>,CHEBI_175929,"4'-hydroxy-3',5,6,7,8-pentamethoxyflavone",other
+<http://purl.obolibrary.org/obo/CHEBI_28017>,CHEBI_28017,starch,other
+<http://purl.obolibrary.org/obo/CHEBI_137492>,CHEBI_137492,4-hydroxy-5-(3-hydroxyphenyl)valeric acid,other
+<http://purl.obolibrary.org/obo/CHEBI_30778>,CHEBI_30778,gallic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_45716>,CHEBI_45716,vorinostat,other
+<http://purl.obolibrary.org/obo/CHEBI_17309>,CHEBI_17309,pectin,other
+<http://purl.obolibrary.org/obo/CHEBI_17148>,CHEBI_17148,"1,4-diaminobutane",other
+<http://purl.obolibrary.org/obo/CHEBI_16610>,CHEBI_16610,spermidine,other
+<http://purl.obolibrary.org/obo/CHEBI_75108>,CHEBI_75108,linoelaidic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_28790>,CHEBI_28790,serotonin,other
+<http://purl.obolibrary.org/obo/CHEBI_15355>,CHEBI_15355,acetylcholine,other
+<http://purl.obolibrary.org/obo/CHEBI_16469>,CHEBI_16469,estradiol,other
+<http://purl.obolibrary.org/obo/CHEBI_133180>,CHEBI_133180,5-acetamido-2-azaniumylpentanoate,other
+<http://purl.obolibrary.org/obo/CHEBI_27432>,CHEBI_27432,linolenic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17154>,CHEBI_17154,nicotinamide,other
+<http://purl.obolibrary.org/obo/CHEBI_16765>,CHEBI_16765,tryptamine,other
+<http://purl.obolibrary.org/obo/CHEBI_16118>,CHEBI_16118,berberine,other
+<http://purl.obolibrary.org/obo/CHEBI_16630>,CHEBI_16630,3-dehydroshikimate,other
+<http://purl.obolibrary.org/obo/CHEBI_17401>,CHEBI_17401,phytic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_64838>,CHEBI_64838,1d-myo-inositol 6-phosphate,other
+<http://purl.obolibrary.org/obo/CHEBI_57627>,CHEBI_57627,"1d-myo-inositol 1,4,5,6-tetrakisphosphate(8-)",other
+<http://purl.obolibrary.org/obo/CHEBI_15966>,CHEBI_15966,d-glutamic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_15843>,CHEBI_15843,arachidonic acid,other
+<http://purl.obolibrary.org/obo/CHEBI_17164>,CHEBI_17164,stachyose,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000001>,FAKEURI_0000001,christensenella minuta yit 12065t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000002>,FAKEURI_0000002,clostridium scindens vpi 12708,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000003>,FAKEURI_0000003,eubacterium ramulus attc 29099,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000004>,FAKEURI_0000004,escherichia coli jcl166,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000005>,FAKEURI_0000005,clostridium orbiscindens i1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000006>,FAKEURI_0000006,eubacterium ramulus dsm 16296,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000007>,FAKEURI_0000007,lactobacillus mucosae epi2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000008>,FAKEURI_0000008,enterococcus faecium epi1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000009>,FAKEURI_0000009,finegoldia magna epi3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000010>,FAKEURI_0000010,roseburia sp. a2-181,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000011>,FAKEURI_0000011,eggerthella lenta rk3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000012>,FAKEURI_0000012,flavonifractor plautii ak2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000013>,FAKEURI_0000013,faecalibacterium prausnitzii atcc 27768t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000014>,FAKEURI_0000014,faecalibacterium prausnitzii atcc 27766,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000015>,FAKEURI_0000015,clostridium orbiscindens i2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000016>,FAKEURI_0000016,slackia faecicanis sp.ccug 48399,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000017>,FAKEURI_0000017,phascolarctobacterium succinatutens yit 12067t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000018>,FAKEURI_0000018,phascolarctobacterium succinatutens yit 12068t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000019>,FAKEURI_0000019,slackia isoflavoniconvertens he8,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000020>,FAKEURI_0000020,end-49,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000021>,FAKEURI_0000021,faecalibacterium prausnitzii cncm i-4543,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000022>,FAKEURI_0000022,faecalibacterium prausnitzii cncm i-4573,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000023>,FAKEURI_0000023,bifidobacterium pseudocatenulatum wc 0400,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000024>,FAKEURI_0000024,bifidobacterium pseudocatenulatum wc 0401,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000025>,FAKEURI_0000025,bifidobacterium pseudocatenulatum wc 0403,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000026>,FAKEURI_0000026,bifidobacterium pseudocatenulatum wc 0407,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000027>,FAKEURI_0000027,bifidobacterium pseudocatenulatum wc 0408,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000028>,FAKEURI_0000028,eggerthella. sp. cat-1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000029>,FAKEURI_0000029,bifidobacterium longum ipla e44,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000030>,FAKEURI_0000030,bifidobacterium adolescentis mb 114,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000031>,FAKEURI_0000031,bifidobacterium bifidum mb 254,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000032>,FAKEURI_0000032,bifidobacterium breve mb 234,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000033>,FAKEURI_0000033,bifidobacterium breve mb 235,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000034>,FAKEURI_0000034,bifidobacterium infantis mb 208,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000035>,FAKEURI_0000035,bifidobacterium lactis mb 238,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000036>,FAKEURI_0000036,bifidobacterium longum mb 201,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000037>,FAKEURI_0000037,bifidobacterium longum mb 207,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000038>,FAKEURI_0000038,bifidobacterium longum mb 219,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000039>,FAKEURI_0000039,bifidobacterium pseudocatenulatum mb 264,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000040>,FAKEURI_0000040,enterococcus sp. 41,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000041>,FAKEURI_0000041,eggerthella lenta jcm 9979t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000042>,FAKEURI_0000042,eggerthella sinensis jcm 14551t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000043>,FAKEURI_0000043,eggerthella hongkongensis jcm 14552t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000044>,FAKEURI_0000044,adlercreutzia equolifaciens fjc-a10,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000045>,FAKEURI_0000045,adlercreutzia equolifaciens fjc-b20,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000046>,FAKEURI_0000046,adlercreutzia equolifaciens fjc-d53,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000047>,FAKEURI_0000047,adlercreutzia equolifaciens fjc-b9t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000048>,FAKEURI_0000048,adlercreutzia equolifaciens fjc-a161,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000049>,FAKEURI_0000049,blautia sp. mrg-pmf1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000050>,FAKEURI_0000050,cebas 4a1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000051>,FAKEURI_0000051,cebas 4a2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000052>,FAKEURI_0000052,cebas 4a3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000053>,FAKEURI_0000053,cebas 4a4,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000054>,FAKEURI_0000054,clostridium sporogenes atcc15579,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000055>,FAKEURI_0000055,clostridium sporogenes ll.ltrb-eryr,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000056>,FAKEURI_0000056,"ωfldc""",microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000057>,FAKEURI_0000057,escherichia coli bw25113 pbelobac,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000058>,FAKEURI_0000058,escherichia coli bacpks,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000059>,FAKEURI_0000059,slackia equolifaciens dze,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000060>,FAKEURI_0000060,escherichia coli hgh21,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000061>,FAKEURI_0000061,escherichia coli hgh6,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000062>,FAKEURI_0000062,bacteroides sp. 45,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000063>,FAKEURI_0000063,clostridium sp. hgh6,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000064>,FAKEURI_0000064,eubacterium limosum atcc 8486,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000065>,FAKEURI_0000065,lactobacillus plantarum ifpl935,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000066>,FAKEURI_0000066,lactococcus sp. 20-92,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000067>,FAKEURI_0000067,bacillus sp. 52,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000068>,FAKEURI_0000068,bacteroides sp. 42,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000069>,FAKEURI_0000069,bacteroides sp. 22,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000070>,FAKEURI_0000070,veillonella sp. 32,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000071>,FAKEURI_0000071,bifidobacterium longum hy8001,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000072>,FAKEURI_0000072,lactobacillus paracasei js1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000073>,FAKEURI_0000073,bifidobacterium catenulatum subsp. kashiwanohense apckj1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000074>,FAKEURI_0000074,clostridium sp. hgh136,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000075>,FAKEURI_0000075,enterococcus avium efel009,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000076>,FAKEURI_0000076,enterococcus durans m4-5,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000077>,FAKEURI_0000077,lactobacillus casei shirota,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000078>,FAKEURI_0000078,adlercreutzia equolifaciens jcm 14793,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000079>,FAKEURI_0000079,asaccharobacter celatus jcm 14811,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000080>,FAKEURI_0000080,slackia equolifaciens jcm 16059,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000081>,FAKEURI_0000081,slackia isoflavoniconvertens jcm 16137,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000082>,FAKEURI_0000082,bifidobacterium longum h-1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000083>,FAKEURI_0000083,clostridium butyricum atcc 19398,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000084>,FAKEURI_0000084,bifidobacterium pseudocatenulatum b7003,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000085>,FAKEURI_0000085,bifidobacterium longum subsp. infantis b7875,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000086>,FAKEURI_0000086,bifidobacterium adolescentis b7304,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000087>,FAKEURI_0000087,bifidobacterium catenulatum b7377,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000088>,FAKEURI_0000088,bifidobacterium breve b7824,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000089>,FAKEURI_0000089,emergencia timonensis sp2-71.3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000090>,FAKEURI_0000090,clostridium cadaveris bb88a,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000091>,FAKEURI_0000091,bacteroides stercoris hj-15,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000092>,FAKEURI_0000092,fusobacterium sp. k-60,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000093>,FAKEURI_0000093,blautia sp. auh-jld56,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000094>,FAKEURI_0000094,roseburia inulinivorans a2–194(f),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000095>,FAKEURI_0000095,firmicutes bacterium cag110,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000096>,FAKEURI_0000096,firmicutes bacterium cag129,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000097>,FAKEURI_0000097,firmicutes bacterium cag176,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000098>,FAKEURI_0000098,succinatimonas hippei yit 12066(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000099>,FAKEURI_0000099,parasutterella excrementihominis yit 11859(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000100>,FAKEURI_0000100,butyricimonas virosa mt12(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000101>,FAKEURI_0000101,butyricimonas synergistica mt01(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000102>,FAKEURI_0000102,adlercreutzia equolifaciens mt4s-5,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000103>,FAKEURI_0000103,eggerthella lenta jcm 9979,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000104>,FAKEURI_0000104,flavonifractor plautii mt42,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000105>,FAKEURI_0000105,flavonifractor plautii atcc 49531,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000106>,FAKEURI_0000106,slackia isoflavoniconvertens dsm 22006,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000107>,FAKEURI_0000107,blautia faecis m25(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000108>,FAKEURI_0000108,barnesiella intestinihominis yit 11860(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000109>,FAKEURI_0000109,ruminococcus champanellensis 18p13(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000110>,FAKEURI_0000110,lawsonibacter asaccharolyticus 3bbh22t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000111>,FAKEURI_0000111,clostridium sp. sdg-mt85-3db,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000112>,FAKEURI_0000112,bacteroides fragilis sdg-mt85-5b,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000113>,FAKEURI_0000113,bacteroides fragilis sdg-mt85-4c,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000114>,FAKEURI_0000114,bacteroides fragilis dife-05,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000115>,FAKEURI_0000115,parabacteroides distasonis dsm 20701t,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000116>,FAKEURI_0000116,bacteroides ovatus sdg-mt85-3c,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000117>,FAKEURI_0000117,eggerthella lenta seco-mt75m3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000118>,FAKEURI_0000118,blautia producta snu-julong 732,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000119>,FAKEURI_0000119,clostridium iv,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000120>,FAKEURI_0000120,clostridium xlva,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000121>,FAKEURI_0000121,clostridium butyricum cbm588,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000122>,FAKEURI_0000122,faecalibacterium prausnitzii s3l/3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000123>,FAKEURI_0000123,roseburia intestinalis dsm 14610,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000124>,FAKEURI_0000124,bififidobacterium thetaiotaomicron dsm 2079,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000125>,FAKEURI_0000125,anaerostipes hadrus ss2/1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000126>,FAKEURI_0000126,bififidobacterium thetaiotaomicron atcc 29148,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000127>,FAKEURI_0000127,faecalibacterium prausnitzii dsm 17677,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000128>,FAKEURI_0000128,roseburia gnavus,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000129>,FAKEURI_0000129,roseburia obeum a2-162,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000130>,FAKEURI_0000130,akkermansia muciniphila dsm 22959,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000131>,FAKEURI_0000131,clostridium sp. mste9gi,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000132>,FAKEURI_0000132,coprococcus catus vpi-c6-61,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000133>,FAKEURI_0000133,salmonella enterica tam 6421,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000134>,FAKEURI_0000134,clostridium hathewayi dsm 13479 zp_6112601,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000135>,FAKEURI_0000135,selenomonas ruminantium tam 6421,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000136>,FAKEURI_0000136,bacteroides thetaiotaomicron atcc 29148d-5,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000137>,FAKEURI_0000137,slackia sp. tm-30,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000138>,FAKEURI_0000138,lactobacillus reuteri d8,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000139>,FAKEURI_0000139,bifidobacterium sp. lkm512,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000140>,FAKEURI_0000140,bifidobacterium sp. lkm10070,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000141>,FAKEURI_0000141,enterococcus durans tn-3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000142>,FAKEURI_0000142,propionibacterium freudenreichii tl133,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000143>,FAKEURI_0000143,bacteroides thetaiotaomicron bt_0558,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000144>,FAKEURI_0000144,bacteroides thetaiotaomicron bt_1224,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000145>,FAKEURI_0000145,bacteroides thetaiotaomicron bt_1225,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000146>,FAKEURI_0000146,clostridium hathewayi dsm 13749,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000147>,FAKEURI_0000147,bacteroides intestinalis am-0,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000148>,FAKEURI_0000148,enterococcus avium ly1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000149>,FAKEURI_0000149,escherichia coli jw5619,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000150>,FAKEURI_0000150,penicillium mallochii cch01,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000151>,FAKEURI_0000151,bacteroides thetaiotaomicron bt1492,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000152>,FAKEURI_0000152,bacteroides ovatus bacova_04222,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000153>,FAKEURI_0000153,akkermansia muciniphila atcc baa-2869,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000154>,FAKEURI_0000154,clostridium butyricum wzmc1016,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000155>,FAKEURI_0000155,clostridium butyricum cgmcc0313.1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000156>,FAKEURI_0000156,lactobacillus acidophilus atcc 4356,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000157>,FAKEURI_0000157,escherichia coli atcc 44102,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000158>,FAKEURI_0000158,pseudomonas aeruginosa atcc 9027,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000159>,FAKEURI_0000159,staphylococcus aureus atcc 26003,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000160>,FAKEURI_0000160,do03,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000161>,FAKEURI_0000161,enterorhabdus mucosicola mt1b8,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000162>,FAKEURI_0000162,streptococcus salivarius jim8772,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000163>,FAKEURI_0000163,streptococcus salivarius cip102503,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000164>,FAKEURI_0000164,faecalibacterium prausnitzii m 21/2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000165>,FAKEURI_0000165,faecalibacterium prausnitzii cncm i-4541,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000166>,FAKEURI_0000166,faecalibacterium prausnitzii cncm i-4546,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000167>,FAKEURI_0000167,faecalibacterium prausnitzii cncm i-4644,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000168>,FAKEURI_0000168,faecalibacterium prausnitzii cncm i-4575,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000169>,FAKEURI_0000169,lactobacillus plantarum mb452,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000170>,FAKEURI_0000170,faecalibacterium prausnitzii htf-f,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000171>,FAKEURI_0000171,lactobacillus plantarum 299v,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000172>,FAKEURI_0000172,lactobacillus fermentum aca-dc 179,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000173>,FAKEURI_0000173,lactobacillus plantarum aca-dc 287,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000174>,FAKEURI_0000174,enterococcus durans ep1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000175>,FAKEURI_0000175,enterococcus durans ep2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000176>,FAKEURI_0000176,enterococcus durans ep3,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000177>,FAKEURI_0000177,escherichia coli ecn,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000178>,FAKEURI_0000178,escherichia coli ecor63,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000179>,FAKEURI_0000179,bacteroides fragilis atcc 23745,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000180>,FAKEURI_0000180,lactobacillus plantarum l9,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000181>,FAKEURI_0000181,lactobacillus acidophilus atcc 4357,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000182>,FAKEURI_0000182,lactobacillus acidophilus 4357,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000183>,FAKEURI_0000183,clostridioides difficile vpi 10463,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000184>,FAKEURI_0000184,lactobacillus crispatus m206119,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000185>,FAKEURI_0000185,clostridium butyricum cgmcc0313-1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000186>,FAKEURI_0000186,eubacterium hallii l2-7,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000187>,FAKEURI_0000187,megamonas rupellenesis mag1b,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000188>,FAKEURI_0000188,escherichia coli m-17,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000189>,FAKEURI_0000189,lactobacillus rhamnosus oll2838,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000190>,FAKEURI_0000190,enterococcus faecalis ms2,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000191>,FAKEURI_0000191,clostridium butyricum b1,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000192>,FAKEURI_0000192,clostridium butyricum cgmcc 9831,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000193>,FAKEURI_0000193,clostridium butyricum cgmcc 9830,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000194>,FAKEURI_0000194,lactobacillus rhamnosus ls-8,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000195>,FAKEURI_0000195,lactobacillus crustorum mn047,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000196>,FAKEURI_0000196,faecalibacterium prausnitzii atcc27766,microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000197>,FAKEURI_0000197,akkermansia muciniphila muc(t),microbe
+<http://purl.obolibrary.org/obo/FAKEURI_0000198>,FAKEURI_0000198,kaempferol-3-sorphoroside,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000199>,FAKEURI_0000199,kaempferol-3-sorphoroside-7-glucoside,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000200>,FAKEURI_0000200,2-acetoxypropanoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000201>,FAKEURI_0000201,hesperetin dihydrochalcone,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000202>,FAKEURI_0000202,3-hydroxy-4-methoxybenzenepropanoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000203>,FAKEURI_0000203,"beta-d-glucopyranoside, 3,5-dihydroxy-4-(3-(3-hydroxy-4-methoxyphenyl)-1-oxopropyl)phenyl",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000204>,FAKEURI_0000204,"1-(3,4-dihydroxyphenyl)-3-(2,4,6-trihydroxyphenyl)-2-propanol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000205>,FAKEURI_0000205,"3,4-dihpp-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000206>,FAKEURI_0000206,"3,4-dihpvl",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000207>,FAKEURI_0000207,dehydroxychlorogenic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000208>,FAKEURI_0000208,dihydrochlorogenic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000209>,FAKEURI_0000209,"2,3-dihydroxypropyl (e)-3-(3,4-dihydroxyphenyl)prop-2-enoate",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000210>,FAKEURI_0000210,dihydrocaffeoyl-glycerol,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000211>,FAKEURI_0000211,3-hydroxyphenethyl alcohol,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000212>,FAKEURI_0000212,5-oh-equol,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000213>,FAKEURI_0000213,genistein 7-o-glucoside,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000214>,FAKEURI_0000214,"2-(4-hydroxyphenyl)propionic acid, (2s)-",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000215>,FAKEURI_0000215,"(2r)-1-(3,4-dihydroxyphenyl)-3-(2,4,6-trihydroxyphenyl)-propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000216>,FAKEURI_0000216,"(2r)-1-(3-hydroxyphenyl)-3-(2,4,6-trihydroxyphenyl)propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000217>,FAKEURI_0000217,icaritin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000218>,FAKEURI_0000218,"3,9-dihydroxybenzo[c]chromen-6-one",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000219>,FAKEURI_0000219,2-hydroxy-3-(5-hydroxy-1h-indol-3-yl)propanoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000220>,FAKEURI_0000220,diosmetin 7-o-beta-d-glucopyranoside,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000221>,FAKEURI_0000221,"3,4-dihydroxy-trans-stilbene",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000222>,FAKEURI_0000222,"1-(3-chloro-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000223>,FAKEURI_0000223,xyloglucan heptasaccharide,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000224>,FAKEURI_0000224,soybean isoflavones,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000225>,FAKEURI_0000225,(10-[(acetyloxy)methyl]-9-anthryl)methyl acetate,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000226>,FAKEURI_0000226,10-keto-12z-octadecenoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000227>,FAKEURI_0000227,hydroxyquercitrin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000228>,FAKEURI_0000228,"5-(3,4-dihydroxyphenyl)-valerolactone",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000229>,FAKEURI_0000229,10-oxo-11-octadecenoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000230>,FAKEURI_0000230,ponciretin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000231>,FAKEURI_0000231,"3-(2,4-dihydroxyphenyl)propanoic acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000232>,FAKEURI_0000232,(3r)-flavan-3-ols,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000233>,FAKEURI_0000233,"1,3-diphenylpropan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000234>,FAKEURI_0000234,(3s)-flavan-3-ols,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000235>,FAKEURI_0000235,phip-n2-β-d-glucuronide,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000236>,FAKEURI_0000236,"7-hydroxy-5-methyl-3-phenyl-6,7,8,9-tetrahydropyrido[3',2':4,5]imidazo[1,2-a]pyrimidin-5-ium chloride",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000237>,FAKEURI_0000237,"(2s)-1-(3-hydroxyphenyl)-3-(2,4,6-trihydroxyphenyl)propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000238>,FAKEURI_0000238,loganetin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000239>,FAKEURI_0000239,gamma-butyrobetaine hydrochloride,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000240>,FAKEURI_0000240,3'-desmethylarctigenin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000241>,FAKEURI_0000241,"ethyl phenyllactate, (-)-",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000242>,FAKEURI_0000242,11-methoxycurvularin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000243>,FAKEURI_0000243,"(2s)-1-(3,4-dihydroxyphenyl)-3-(2,4,6-trihydroxyphenyl) propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000244>,FAKEURI_0000244,"(4r)-4-hydroxy-5-(3,4-dihydroxyphenyl) valeric acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000245>,FAKEURI_0000245,"(4r)-5-(3,4-dihydroxyphenyl)-γ-valerolactone",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000246>,FAKEURI_0000246,"(2r)-1-(3,4-dihydroxyphenyl)-3-(2,4,6-trihydroxyphenyl) propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000247>,FAKEURI_0000247,"(4s)-4-hydroxy-5-(3,4-dihydroxyphenyl) valeric acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000248>,FAKEURI_0000248,"(4s)-5-(3,4-dihydroxyphenyl)-γ-valerolactone",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000249>,FAKEURI_0000249,"(2s)-1-(3-hydroxyphenyl)-3-(2,4,6-trihydroxyphenyl) propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000250>,FAKEURI_0000250,(4r)-4-hydroxy-5-(3-hydroxyphenyl) valeric acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000251>,FAKEURI_0000251,"(2r)-1-(3-hydroxyphenyl)-3-(2,4,6-trihydroxyphenyl) propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000252>,FAKEURI_0000252,(4s)-4-hydroxy-5-(3-hydroxyphenyl) valeric acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000253>,FAKEURI_0000253,(4r)-5-(3-hydroxyphenyl)-γ-valerolactone,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000254>,FAKEURI_0000254,(4s)-5-(3-hydroxyphenyl)-γ-valerolactone,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000255>,FAKEURI_0000255,type i collagen cross-linked c-telopeptide,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000256>,FAKEURI_0000256,procollagen type 1 n-terminal propeptide,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000257>,FAKEURI_0000257,secoisolariciresinol diglucoside,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000258>,FAKEURI_0000258,"2,3-bis(3,4-dihydroxybenzyl)butyrolactone",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000259>,FAKEURI_0000259,"5,7-dihydroxy-2-(4-hydroxyphenyl)chroman-4-one",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000260>,FAKEURI_0000260,4'-dehydroxylated (−)-epigallocatechin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000261>,FAKEURI_0000261,"1-(3,4,5-trihydroxyphenyl)-3-(2,4,6trihydroxyphenyl)propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000262>,FAKEURI_0000262,"1-(3,5-dihydroxyphenyl)-3-(2,4,6-trihydroxyphenyl)propan-2-ol",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000263>,FAKEURI_0000263,4'-dehydroxylated isomer (−)-gallocatechin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000264>,FAKEURI_0000264,phenyalanine,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000265>,FAKEURI_0000265,1-methylindole,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000266>,FAKEURI_0000266,"21h-biline-8,12-dipropanoic acid, 3,18-diethyl-1,4,5,15,16,19,22,24-octahydro-2,7,13,17-tetramethyl-1,19-dioxo-",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000267>,FAKEURI_0000267,7-hydroxy-3-oxocholanoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000268>,FAKEURI_0000268,nutriadeoxycholate vulpecholate,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000269>,FAKEURI_0000269,7a-hydroxy-3-oxo-5b-cholanoate,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000270>,FAKEURI_0000270,valyl-hydroxyproline,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000271>,FAKEURI_0000271,propanediol,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000272>,FAKEURI_0000272,cysteine-glutathione disulfide,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000273>,FAKEURI_0000273,"methanol, (methyl-onn-azoxy)-",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000274>,FAKEURI_0000274,lysophosphatidylethanolamine,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000275>,FAKEURI_0000275,sclerotioramine,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000276>,FAKEURI_0000276,sclerotiorin,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000277>,FAKEURI_0000277,(z)-10-hydroxy-12-octadecenoic acid,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000278>,FAKEURI_0000278,n-trimethyllysine,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000279>,FAKEURI_0000279,"n,n,n-trimethyl-5-aminovaleric acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000280>,FAKEURI_0000280,"13-hydroxy-9(z),15(z)-octadecadienoic acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000281>,FAKEURI_0000281,"13-oxo-9(z),15(z)-octadecadienoic acid",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000282>,FAKEURI_0000282,oxyberberine,other
+<http://purl.obolibrary.org/obo/FAKEURI_0000283>,FAKEURI_0000283,"[(1s,2r,3s,4s,5r,6s)-2,3,5-trihydroxy-4,6-diphosphonooxycyclohexyl] dihydrogen phosphate",other
+<http://purl.obolibrary.org/obo/FAKEURI_0000284>,FAKEURI_0000284,il12p70,other
